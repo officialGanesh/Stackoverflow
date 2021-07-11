@@ -1,6 +1,8 @@
 import requests, fire
 from requests.api import post
 from requests_html import HTML
+import json, os
+import pandas as pd
 
 
 stackoverflow = "https://stackoverflow.com/"
@@ -17,7 +19,7 @@ def filter_data(text,keyname = None):
     
     elif keyname == "User":
         text = text.split("\n")
-        
+
     return text
 
 
@@ -47,8 +49,14 @@ def scrape_first_post(tag):
                     keyname = key_names[i]
                     post_details[keyname] = filter_data(element.text,keyname=keyname)
                 data.append(post_details)
-            print(data[0])
             
+            with open(os.path.join("Outputs/Single-Scraper/post.json"),"w") as f:
+                f.write(json.dumps(data,indent=2))
+
+            with open(os.path.join("Outputs/Single-Scraper/post.csv"),"w") as f:
+               df = pd.DataFrame(data)
+               df.to_csv(f,index=False)
+
         except Exception as e:
             print("Something went wrong: ",e)
 
