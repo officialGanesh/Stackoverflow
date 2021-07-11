@@ -1,0 +1,602 @@
+[
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "22",
+    "Question": "Expose a handler function to Lambda from a Docker Image",
+    "Summary": "I'm trying to build a hello world example of a docker image powering a lambda function. My docker image houses a NPM project that looks like this: project \u2502 app.js | Dockerfile | package.json | ...",
+    "Tags": "javascript node.js amazon-web-services docker aws-lambda",
+    "User": [
+      "YAHsaves",
+      "1,29088 silver badges2424 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "2",
+    "Views": "28",
+    "Question": "how to change text color on scroll in react.js",
+    "Summary": "Hi I'm having some issue regarding changing text color on scroll in react.js i'm not sure what i'm missing here but simply put the H4 text in default is white in color and should change to black if on ...",
+    "Tags": "javascript reactjs",
+    "User": [
+      "Ian Ducao",
+      "6155 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "0",
+    "Views": "16",
+    "Question": "WebRTC Videoconferencing [closed]",
+    "Summary": "I want to know any link or solution to this using vanilla js Webrtc video broadcast, one to many. Its a project I'm working on and I'm having hard time finding useful materials as my stack is PHP and ...",
+    "Tags": "javascript php webrtc",
+    "User": [
+      "Daniel Chiemelu",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "31",
+    "Question": "I have a business sales page that shows results from a json file. I want to be able to pass the information for one listing on a results page",
+    "Summary": "My index.php page has a display of listings from a json file which looks good. But I am trying to send a result of a single listing from that page to another page (result.php). How do I display the ...",
+    "Tags": "javascript php jquery json",
+    "User": [
+      "McCarn Designs",
+      "1"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "8",
+    "Question": "Sidecar nav not displaying on Safari",
+    "Summary": "I have an internal static site used for help desk ticket submission. I am having an issue where the slide out sidecar nav menu for mobile works in Chrome and Firefox but does not display on Safari, ...",
+    "Tags": "javascript html css safari",
+    "User": [
+      "Quaid Pearson",
+      "1122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "47",
+    "Question": "Python Beautiful Webscraping Simulate Click to Scrape All Pages",
+    "Summary": "I ran into an interesting issue while trying to scrape http://www.o-review.com/database_filter_model.php?table_name=glasses&tag= containing 42 pages of data. I was able to successfully scrape the ...",
+    "Tags": "javascript python web-scraping visual-studio-code beautifulsoup",
+    "User": [
+      "The_Bandit",
+      "2122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "29",
+    "Question": "Image cannot get parent attributes",
+    "Summary": "*Sorry for formatting: typing from the phone. Hello guys! Help me please with a problem: embedded img inside div not changing it's width in respect to it's parent. <div display=\"block\" ...",
+    "Tags": "javascript html",
+    "User": [
+      "Eugene Zolotuhin",
+      "4566 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "22",
+    "Question": "I want to delete a user by double clicking it, and the first one is always deleted [closed]",
+    "Summary": "I am making a task with mern where you can create a note, and create a user, when creating the user with a form, the new user is saved and rendered and displayed on the screen, in an unordered list, ...",
+    "Tags": "javascript reactjs",
+    "User": [
+      "Yamil",
+      "1"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "2",
+    "Views": "45",
+    "Question": "JavaScript unhackable countdown timer",
+    "Summary": "I'm currently working on a quizz app. When a question appears the users has 10 seconds to answer it, otherwise they don't get the points for that question. Once the timer is up, I want to autmatically ...",
+    "Tags": "javascript node.js server countdown",
+    "User": [
+      "Shnick",
+      "93733 silver badges1919 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "12",
+    "Question": "Code to dynamically add HTML nodes works in Chrome and Safari but not in Firefoxd",
+    "Summary": "I am using the following code to dynamically add nodes to the html document: HTML: <section> <div class=\"labelDiv ____ labelDivTextNeighborhoodTips\"> ...",
+    "Tags": "javascript html dom cross-browser",
+    "User": [
+      "leoro",
+      "1211313 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "10",
+    "Question": "Apexcharts - when column is very small, its difficult to hover and show tooltip",
+    "Summary": "So I have a situation when using apexcharts when one of the columns is very small. Its difficult to render the tooltip because you have to be very careful to hover the column. Question: is there a way ...",
+    "Tags": "javascript css reactjs charts apexcharts",
+    "User": [
+      "underfrankenwood",
+      "1"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "14",
+    "Question": "Stuck trying to write web3 RPC BalanceOf to get users metamask smartcontract token balance",
+    "Summary": "I've been trying to use the new JSON RPC methods https://docs.metamask.io/guide/rpc-api.html#ethereum-json-rpc-methods to create a simple web page that can return the token balance of an ERC20 smart ...",
+    "Tags": "javascript solidity smartcontracts web3 metamask",
+    "User": [
+      "user16422669",
+      "1122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "PouchDB polyfilled for es6 Promises: CommonJS, AMD, RequireJS, \u2026?",
+    "Summary": "TL;DR My Question To anyone who has successfully used PouchDB and polyfilled es6 (and es5) for older browsers: How did you do it? Which implementation of CommonJS / AMD / RequireJS was used (if that ...",
+    "Tags": "javascript ecmascript-6 promise pouchdb commonjs",
+    "User": [
+      "AlanQ",
+      "5311 silver badge99 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "40",
+    "Question": "Displaying API information after a button push",
+    "Summary": "So I am trying to display the information for a random quote from an API after they click a button on screen. However, the button displays, and the information is run in the console when it loads on ...",
+    "Tags": "javascript api",
+    "User": [
+      "ItsYaboi123",
+      "311 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "26",
+    "Question": "Pathing finding in Chess? 2d array searching",
+    "Summary": "I currently am working on a Chess app. I've created an array which is the board in this board is Sqaure components that hold a Piece and a position which is an [x,y] coordinates of where it is located....",
+    "Tags": "javascript reactjs path-finding chess",
+    "User": [
+      "4156",
+      "34111 silver badge1111 bronze badges"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "0",
+    "Views": "22",
+    "Question": "2D visibility algorithm not works well for overlapped case",
+    "Summary": "I find the visibility algorithm in one great website Since it is quiet long ago article, I am not sure that the author will give the answer. As you can see, the interactive playground(try it yourself) ...",
+    "Tags": "javascript algorithm visibility",
+    "User": [
+      "Period Positive",
+      "2111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "0",
+    "Views": "32",
+    "Question": "How to handle vue 404 on refresh?",
+    "Summary": "Okay so I am teaching myself vue and I am wondering while using vue router what is the conventional way for handling 404 errors on page refresh? I tried using mode:\"hash\" and it is working ...",
+    "Tags": "javascript laravel vue.js",
+    "User": [
+      "Mr P",
+      "3111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "30",
+    "Question": "RegEx Expression for JS",
+    "Summary": "I have been given the task of checking whether an input string will match a list of patterns (in JS). I was hoping to see Regex, and have no prior experience with this tool. I have watched some ...",
+    "Tags": "javascript node.js regex",
+    "User": [
+      "Sina",
+      "1"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "cant read or write to file packed in asar in node js application",
+    "Summary": "So I have a electron application and I packaged it. Only issue is that I think since when packaged all the code gets packed into a asar file. when I try to read or write something using fs its not ...",
+    "Tags": "javascript node.js electron",
+    "User": [
+      "Never Broke Again",
+      "3366 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-4",
+    "Answers": "0",
+    "Views": "25",
+    "Question": "PHP tech stack with npm or yarn",
+    "Summary": "Our tech stack is built using PHP in a standard MVC setup. In some of the pages, we use javascript heavily for browser based 3D rendering. We are struggling with using JS packages in the current setup....",
+    "Tags": "javascript php node.js npm yarnpkg",
+    "User": [
+      "whileone",
+      "66011 gold badge1010 silver badges2323 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "5",
+    "Question": "How to add usernames to the NodeJS and socket.io Zoom Clone built by Clever Programmer?",
+    "Summary": "I was trying to build the Zoom Clone that the channel Clever Programmer built, and I wanted to display the usernames of the people in the call when they send chat messages. After prompting the user to ...",
+    "Tags": "javascript node.js sockets websocket socket.io",
+    "User": [
+      "s p",
+      "1111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "1answer",
+    "Views": "24",
+    "Question": "How to refactor this code with if statement",
+    "Summary": "I have code with if statement (below). Is it possible to refactor this code? because in this method is ugly if statement :( getOverallAmount(estimate) { const {installments} = estimate; ...",
+    "Tags": "javascript refactoring",
+    "User": [
+      "seleniumfan",
+      "21"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "19",
+    "Question": "Como fa\u00e7o para monitorar os jogos da bet365? [closed]",
+    "Summary": "Exitem uns bots que faz monitoramento de todos os jogos que est\u00e3o acontecendo no momento. Algu\u00e9m sabe/indica o que eu posso usar para fazer isso ? python(libs), JS... exemplo de bot https://www....",
+    "Tags": "javascript python web-scraping",
+    "User": [
+      "Obruxo",
+      "1"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "14",
+    "Question": "Save audio for reload and all",
+    "Summary": "I don't know how to explain this but i got this code if (localStorage.getItem(\"infiniteScrollEnabled\") === null) { var theaudio=`${localStorage.getItem(\"audio1\")}` ...",
+    "Tags": "javascript google-chrome google-chrome-extension roblox",
+    "User": [
+      "Skully",
+      "3555 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "1answer",
+    "Views": "34",
+    "Question": "Can't import from web",
+    "Summary": "I tried to import modules from web: import * as THREE from 'https://unpkg.com/three@0.130.1/build/three.module.js'; import { OrbitControls } from 'https://unpkg.com/three@0.130.1/examples/jsm/controls/...",
+    "Tags": "javascript",
+    "User": [
+      "mari",
+      "1"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "16",
+    "Question": "spawn ENOENT error when trying to convert to mp3",
+    "Summary": "I was trying to make a youtube video to mp3 converter using an npm package called youtube-mp3-downloader the npm documentation says I have to download FFmpeg inorder for the program to run so I did ...",
+    "Tags": "javascript node.js ffmpeg",
+    "User": [
+      "seriously",
+      "25311 silver badge99 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "1answer",
+    "Views": "32",
+    "Question": "how to open a new tab and observe it with html",
+    "Summary": "i need to make a html (or js) code that opens a new tab in the browser and be able to know when the user closes it or change the url i need it to make an ad PTC so I can pay users when they open an ad ...",
+    "Tags": "javascript html",
+    "User": [
+      "Iskander Souissi",
+      "1"
+    ]
+  },
+  {
+    "Votes": "-5",
+    "Answers": "0",
+    "Views": "35",
+    "Question": "How to fix the issue with CORS using AJAX and HTML?",
+    "Summary": "i am having a problem. The CORS is blocking my POST request. I am just trying to send data to and end-point that i am passing in the URL below in my ajax. Someone knows how can i solve it? i just lost ...",
+    "Tags": "javascript html ajax",
+    "User": [
+      "wonderCode",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "20",
+    "Question": "Best way of progressively testing changing data",
+    "Summary": "The code that I want to test has the purpose of parsing math expressions through using trees. Therefore, I thought of testing in a progressive manner, where I slowly build up a tree and have a test ...",
+    "Tags": "javascript node.js testing mocha.js chai",
+    "User": [
+      "Fly",
+      "68222 gold badges66 silver badges2323 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "1answer",
+    "Views": "31",
+    "Question": "What is difference between the various ways of writing a component using React",
+    "Summary": "I'm here studying React and from time to time, when I'm looking at component creation codes, I see 4 different syntaxes and I wanted to understand if there is any difference between the 4, I really ...",
+    "Tags": "javascript reactjs function components arrow-functions",
+    "User": [
+      "Elton Santos",
+      "47544 silver badges2424 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "How to process an infinite queue using a fixed number of workers?",
+    "Summary": "I am working on cache invalidation for a web app. The desired behavior is that when someone visits a profile page, that will trigger the recaching of that user's data. I want to only be running at ...",
+    "Tags": "javascript async-await iterator queue",
+    "User": [
+      "dysbulic",
+      "2,68722 gold badges2525 silver badges4141 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "12",
+    "Question": "FileSystemEntry.remove() replacement?",
+    "Summary": "I am using the new(ish) File System Access API and I need to delete a file. I was going to use the remove() method, but it is deprecated. Is there a currently supported function for deleting files in ...",
+    "Tags": "javascript html5-filesystem native-file-system-api-js",
+    "User": [
+      "Kodzvn",
+      "322 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "12",
+    "Question": "Create a luxon DateTime while keeping the original timezone offset",
+    "Summary": "If I have the following ISO date: 2021-07-05T13:20:00+06:00 If I call DateTime.FromISO it will convert it to machine local time, I then have to parse the string and set the zone manually. How to I ...",
+    "Tags": "javascript luxon",
+    "User": [
+      "Nean Der Thal",
+      "2,69533 gold badges1717 silver badges3434 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "0",
+    "Views": "20",
+    "Question": "How to do a search autocomplete with link to specific page? [duplicate]",
+    "Summary": "I'm doing a uni project so I'm still learning little by little, I did an autocomplete with videogames in my database, and now I want that whenever the user click on the specific game, it goes to ...",
+    "Tags": "javascript html",
+    "User": [
+      "StumpySmash",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "23",
+    "Question": "Typescript array of class using same value",
+    "Summary": "I'm having an error running the following test... test('ok', () => { const users = [new User({ name: 'teste', email: 'test' })]; const users2 = [...users, new User({ name: 'test2', ...",
+    "Tags": "javascript arrays typescript object jestjs",
+    "User": [
+      "vfbraton",
+      "3355 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "25",
+    "Question": "Explicitly define form action",
+    "Summary": "I have a website template developed using html, JavaScript, CSS and JQuery. There is a file (contact.js) that describes the ajax code for forms as below: $(function() { submitSuccess: function(...",
+    "Tags": "javascript html ajax forms",
+    "User": [
+      "Ngugi Kariuki",
+      "18499 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "8",
+    "Question": "fireEvent.scroll from React Testing Library is not updating classList on second call",
+    "Summary": "I have a class component in my React project that represents my navigation bar. I am using window.scrollY to update a boolean state scrolled. When the user scrolls, the class nav-shadow should be ...",
+    "Tags": "javascript reactjs typescript jestjs react-testing-library",
+    "User": [
+      "Leandro Yabut",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "25",
+    "Question": "Q: load new PHP variables values without refresh",
+    "Summary": "I have wonder how to load or refresh PHP variables after assigning them example: <?PHP if(isset($_POST['rnd])){$post = $_POST['rnd'];} ?> <input name='rnd' value='hey'> //insert any ...",
+    "Tags": "javascript php node.js backend",
+    "User": [
+      "svqo",
+      "533 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "21",
+    "Question": "ReactJS - Updating the state causes lag",
+    "Summary": "Description I have a small app that uses the useCallback() hook to update the state, but every time I do, it causes lag on the page. And I mean actual lag, not just the \"waiting for the async ...",
+    "Tags": "javascript reactjs performance",
+    "User": [
+      "Alec",
+      "1,56544 gold badges1515 silver badges3838 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "31",
+    "Question": "Replace multiple addition sign (+) in a string with a single addition sign (+) using Javascript",
+    "Summary": "In the following code, I am trying to replace multiple addition signs in a string with a single addition sign using Javascript. I am not getting the right regex expression for this please help! ...",
+    "Tags": "javascript html regex replace",
+    "User": [
+      "santosh",
+      "41433 silver badges1111 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "10",
+    "Question": "How to filter sub-categories of a category. The sub-categories will open with a specific template design, in the same place",
+    "Summary": "This is exactly what the design is going to do. It's a screenshot from another website Let's see how I can solve it. When I call a template for filtering it doesn't work properly. (I'm a new member ...",
+    "Tags": "javascript wordpress",
+    "User": [
+      "Laksmi Santo",
+      "1"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "2",
+    "Views": "34",
+    "Question": "Fixed position element contained inside of container div of variable height",
+    "Summary": "I am trying to make an element(social links) 'fixed' inside of a container div(blog post) that varies in height and doesn't continue past the container. So relative to the container div, not the ...",
+    "Tags": "javascript css",
+    "User": [
+      "RGM3",
+      "1333 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "31",
+    "Question": "Passing params through URL - Single quotes become &#39;",
+    "Summary": "I'm working with a ASP.NET project. We are passing params through the url and every time a single quote is passed the url changes all single quotes to %27 and the actual value read in through the ...",
+    "Tags": "javascript c# asp.net .net",
+    "User": [
+      "nkacolz",
+      "7133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "1answer",
+    "Views": "34",
+    "Question": "Embed song in HTML w/o file",
+    "Summary": "I'm designing a mini game that would be generated with HTML and JS on smartphone. It would be offline and won't be able to access any files. So I was wondering how to embed a basic music in it and ...",
+    "Tags": "javascript html midi n",
+    "User": [
+      "Raff36",
+      "2122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "Vue.js doesn't parse components inside variable throw v-html directive",
+    "Summary": "I have a component called console in a variable called content import Console from '~/components/Console' export default { name: 'SinglePost', components: { Console }, data() { return { ...",
+    "Tags": "javascript vue.js nuxt.js",
+    "User": [
+      "Orman Faghihi Mohaddes",
+      "10288 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "14",
+    "Question": "Run Flexsearch in Swift",
+    "Summary": "I created a website that uses Flexsearch but only the create and encode part as shown below. const flexSearch = await import('flexsearch') const index = flexSearch.default.create({ profile: '...",
+    "Tags": "javascript ios swift xcode javascriptcore",
+    "User": [
+      "user1184205",
+      "73311 gold badge66 silver badges1818 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "23",
+    "Question": "How to show collapsible content correctly inside an array map?",
+    "Summary": "So I made an array of object and map the array. I also make a simple collapsible. The thing is, the collapsible didn't work correctly. It should only show the content where the user clicked on. i.e. ...",
+    "Tags": "javascript reactjs",
+    "User": [
+      "AtomicCommit",
+      "3966 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "25",
+    "Question": "Why does my jQuery app work ONLY after page refresh?",
+    "Summary": "Problem Summary: jQuery todo list app offers 3 functions; add items, edit items, and remove items. I can add items continuously, but cannot edit or remove items continuously. A single item can be ...",
+    "Tags": "javascript jquery",
+    "User": [
+      "JLDN Admin",
+      "8766 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "3",
+    "Views": "38",
+    "Question": "How to convert Javascript numbers to a string and pass it to an input box",
+    "Summary": "i'm stuck trying to convert feet to miles. here is my code so far: function convertData() { var distance = document.getElementById('distance').innerHTML; var mile = 5280; var result = ...",
+    "Tags": "javascript",
+    "User": [
+      "GeorgeStevenJ9272",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "12",
+    "Question": "Displaying javascript style alert after form submit in Django",
+    "Summary": "I am creating a simple application in Django. I have a form on a page and after the form is submitted, I want to redirect the user to a new page and display a JavaScript alert like this. How would I ...",
+    "Tags": "javascript django",
+    "User": [
+      "Jahan",
+      "1"
+    ]
+  }
+]

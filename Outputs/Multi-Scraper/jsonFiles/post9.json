@@ -1,0 +1,602 @@
+[
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "44",
+    "Question": "The button opens the form only with a second click",
+    "Summary": "I have button that opens the form on my site. How can I change it to make it open the form with one click? And I found that after first click button id change from \"51\" to \"card_5\" ...",
+    "Tags": "javascript php html jquery forms",
+    "User": [
+      "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0421\u0443\u0447\u043a\u043e\u0432",
+      "3377 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "18",
+    "Question": "Unhandled Rejection (TypeError): register is not a function",
+    "Summary": "Getting this error for register when onSubmit is initiated. I've been trying to debug it for the last couple days, and even had a second set of eyes try as well with no luck. The solutions that i've ...",
+    "Tags": "javascript reactjs axios typeerror onsubmit",
+    "User": [
+      "revup88",
+      "6588 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "24",
+    "Question": "Discord.js | Buttons doesn't work after bot restarts",
+    "Summary": "The buttons work after doing the command but after restarting the bot and pressing the button, it says interaction failed Here's my ticket.js const { MessageButton } = require('discord-buttons'); ...",
+    "Tags": "javascript node.js discord discord.js",
+    "User": [
+      "The Infinite Star",
+      "1555 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "27",
+    "Question": "Express app gives an unexpected output while using partials",
+    "Summary": "I am learning express and using partials and getting this error. const express = require(\"express\"); const app = express(); const path = require(\"path\"); const hbs = require(\"...",
+    "Tags": "javascript node.js express handlebars.js",
+    "User": [
+      "Dhruvan Rai",
+      "344 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "0",
+    "Views": "23",
+    "Question": "I need help to build a product offer in JavaScript program",
+    "Summary": "When he buys 8 packs then get (bonus) 12 packs When he buys 15 packs then get (bonus) 30 packs I just made an input using HTML, <input type=\"number\" name=\"femiconBonus\" step=&...",
+    "Tags": "javascript for-loop",
+    "User": [
+      "Surajit Singha Sisir",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "21",
+    "Question": "conditional error \u201ccannot read property length of undefined\u201d",
+    "Summary": "so I'm working on my first HTML-CSS-JS-jQuery project. I have to make a simple tweeter, it's just for learning. One of the features is that the app should render a user's feed with only his tweets, if ...",
+    "Tags": "javascript jquery undefined",
+    "User": [
+      "Sebastian Carazo",
+      "1544 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "14",
+    "Question": "How determine what Javascript code triggerd a modal dialog box?",
+    "Summary": "I have a web page that uses several jQuery plugins. One of them is popping up a modal dialog box that has the title \"Error\" and no other information. I used the \"inspect\" option ...",
+    "Tags": "javascript jquery debugging modal-dialog",
+    "User": [
+      "Robert Oschler",
+      "13.6k1717 gold badges7878 silver badges209209 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "ajax success response getting undefined value",
+    "Summary": "I am getting undefined value from ajax success response parameter. Here is my code, function ShowProductDetail() { //Display Product var AcNo = $(\"#txt_acno\").val(); var ...",
+    "Tags": "javascript ajax datatable undefined response",
+    "User": [
+      "s.k.Soni",
+      "1,0841313 silver badges3232 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "38",
+    "Question": "Why does generating a random number outside of a loop, causes it to be always the same?",
+    "Summary": "When I create a random number inside a while loop as a local variable everything works, but when I generate a random number as a global variable then I get stuck in an infinite loop. I don't ...",
+    "Tags": "javascript random while-loop",
+    "User": [
+      "storval",
+      "1133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "20",
+    "Question": "Unable to generate type for graphQL query",
+    "Summary": "Getting validation error while generating type for below query. Validation message FragmentA does not exist //file1.ts import gql from 'graphql-tag'; const query = gql` query SomeQuery { user ...",
+    "Tags": "javascript typescript graphql apollo apollo-client",
+    "User": [
+      "Mohit Verma",
+      "1,40211 gold badge1717 silver badges2828 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "17",
+    "Question": "What to review for JS performance? Bundle size or count of deps? [closed]",
+    "Summary": "When adding a new dependency (library) to my Javascript (React) application, to figure out how it is going to affect the performance of my application, which one should I be looking at? amount of ...",
+    "Tags": "javascript reactjs dependencies bundle",
+    "User": [
+      "Ege",
+      "1,13311 gold badge77 silver badges2222 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "Call External (Off-Site) Files from an External (On-Site) File",
+    "Summary": "I have a multi-page site that requires quite a bit of off-site JS files. I wish to call all of these files in an external file on my site that is accessed by all the pages so I can easily make site-...",
+    "Tags": "javascript html",
+    "User": [
+      "Greenreader9",
+      "11388 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "12",
+    "Question": "Image Popup not execute in mobile devices",
+    "Summary": "I want to used on JH Image Popup. - https://joomla-handbuch.com/en/downloads/jh-image-popup I have check on IF conditions image popup was not loading in our Mobile Devices. if (/Android|webOS|iPhone|...",
+    "Tags": "javascript joomla3.0",
+    "User": [
+      "Tushar Korat",
+      "55911 gold badge55 silver badges1919 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "0",
+    "Views": "29",
+    "Question": "To find a way out of the maze on Javacript :) [duplicate]",
+    "Summary": "who can help, please? I need to write an algorithm to find a way out of the maze. That is 2-dimensional array. I played with the code, but can't fully understand how should I mark in the code the ...",
+    "Tags": "javascript algorithm recursion",
+    "User": [
+      "Valerii",
+      "4377 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "How to parse the content of other website using JavaScript",
+    "Summary": "I tried to get content of some website using $.ajax method, but it gives an error like this: I found some posts in this theme, but those aren't helpful. So how can I do that anyway?",
+    "Tags": "javascript ajax parsing xmlhttprequest",
+    "User": [
+      "Majid Ainizoda",
+      "1122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "20",
+    "Question": "Is there any way to read form value of checked box in the backend",
+    "Summary": "<form> <table class=\"tableheight\" id=\"customers\"> <tbody style='height:270px;display:block;overflow:auto;width:286px'> <tr> ...",
+    "Tags": "javascript node.js express ejs",
+    "User": [
+      "Yash Singhal",
+      "1111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "3",
+    "Answers": "1answer",
+    "Views": "41",
+    "Question": "I was going through MDN docs on Promises And came up with an example which i am not able to understand.Can Anyone explain the flow to me",
+    "Summary": "the promise gets resolved CB of then runs then it throws a rejected promise after that catch block runs so why the other then ran after that? i am not able to understand the flow behind it does catch ...",
+    "Tags": "javascript reactjs asynchronous es6-promise",
+    "User": [
+      "Rohan Sharma",
+      "4355 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "29",
+    "Question": "React best way to filter datagrid",
+    "Summary": "I have a table row, Where I am displaying the dat grid using material datagrid component. Here's codesandbox link - > https://codesandbox.io/s/modern-firefly-ncb3q?file=/src/App.js:1293-1560 Now ...",
+    "Tags": "javascript reactjs sass datagrid material-ui",
+    "User": [
+      "Maria Andre",
+      "322 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "21",
+    "Question": "I want to write to a json file with javascript and PHP, but not sure how to do so [duplicate]",
+    "Summary": "Code is at the bottom. (if the question is not formulated correctly please tell me) I want to write to a json file using javascript and PHP to create a multiplayer game of rock paper scissors. I'm ...",
+    "Tags": "javascript php jquery json",
+    "User": [
+      "fat mitchel 38",
+      "5444 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "24",
+    "Question": "How to save multiple values of checkboxes into one column of mongodb using javascript",
+    "Summary": "I have a list of checkboxes, each representing a day of the week, however when I click them and add it to my mongoDB database, they come as separate items. I need to somehow append them into one array....",
+    "Tags": "javascript html node.js mongodb",
+    "User": [
+      "beginner_coder",
+      "511 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-4",
+    "Answers": "0",
+    "Views": "21",
+    "Question": "Can you suggest me some good ideas for web development projects? [closed]",
+    "Summary": "I am currently in final year of B.E IT and I want to do a project on web designing and development . I have an idea about creating a website on e-learning . So can anyone suggest me some goood ideas ...",
+    "Tags": "javascript php html jquery css",
+    "User": [
+      "Pooja",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "0",
+    "Views": "22",
+    "Question": "My javascript code is not running in my php code [closed]",
+    "Summary": "I am developing a script in my php, but I am noticing that it is not running well.I'm new to javascript and I don't really understand what's going on. Not works: <script src=\"https://code....",
+    "Tags": "javascript",
+    "User": [
+      "Steven",
+      "133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "38",
+    "Question": "What is the Time Complexity of Below Code",
+    "Summary": "I need to calculate the time complexity of the following code: for (let i = 1; i < n; i = i * 2) { console.log(i); } and please explain how to calculate complexities in log",
+    "Tags": "javascript time-complexity complexity-theory",
+    "User": [
+      "Pranav Arya",
+      "1533 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "25",
+    "Question": "Line drop in text editing Android Studio",
+    "Summary": "Any suggestion how to have an EditText that receiving user input around 9 letters (or digits) and after finish (e.g: click some button action or lost keyboard focus), it'll update the letters inside ...",
+    "Tags": "javascript android-studio text android-edittext multiline",
+    "User": [
+      "\u0645\u0643\u062a\u0628\u0629 \u0627\u0644\u0623\u0641\u0642 \u0644\u0644\u062e\u062f\u0645\u0627\u062a \u0627\u0644\u0639\u0644\u0645\u064a\u0629",
+      "333 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "26",
+    "Question": "style a div inside a template literal?",
+    "Summary": "i have this api data coming from a server and i wanna dynamically render the data based on each response. problem occurs when i am trying to change the style of the div say i have this div container ...",
+    "Tags": "javascript arrays rest",
+    "User": [
+      "Nafi",
+      "1755 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "6",
+    "Question": "Is there a way to get the artist photo using Apple MusicKit JS?",
+    "Summary": "I can retrieve the artist search results using let music = MusicKit.getInstance(); music.api .search(model.dotNetModel.SearchTerm()) .then((results) => { console.log(results.artists....",
+    "Tags": "javascript apple-musickit-js",
+    "User": [
+      "Omar.Ebrahim",
+      "75211 gold badge88 silver badges2424 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "14",
+    "Question": "Web3.providers.HttpProvider('https://bsc-dataseed.binance.org/') connect False",
+    "Summary": "async function loadWeb3() { const web3 = new Web3.providers.HttpProvider('https://bsc-dataseed.binance.org/'); console.log(web3); }",
+    "Tags": "javascript",
+    "User": [
+      "Long Nguy\u1ec5n Thi\u00ean",
+      "1"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "2",
+    "Views": "34",
+    "Question": "vue - axios call not working(Cannot read property 'protocol' of undefined)",
+    "Summary": "I am beginner on Vue.js. I am trying to do axios call on my /src/component/data.js The file look like below: const myData = () => { return new Promise((resolve, reject) => { resolve(data())...",
+    "Tags": "javascript vue.js axios",
+    "User": [
+      "CCCC",
+      "2,15055 silver badges1212 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "18",
+    "Question": "How to make jQuery 3.6.0 work with node.js v12.16.1",
+    "Summary": "I am using an online IDE called Replit and node.js projects run on the node version : 12.16.1 . But I am trying to get jQuery 3.6.0 to work with this version of node.js but with every methods I found ...",
+    "Tags": "javascript jquery node.js npm cdn",
+    "User": [
+      "Antoine BASTIDE",
+      "1122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "1answer",
+    "Views": "28",
+    "Question": "Loading indicator appears but does not move in react-redux",
+    "Summary": "import { useEffect } from \"react\"; import { useSelector, useDispatch } from \"react-redux\"; import { BiLeftArrow, BiRightArrow } from \"react-icons/bi\"; import { useHistory ...",
+    "Tags": "javascript reactjs redux-thunk redux-toolkit",
+    "User": [
+      "Umut Palabiyik",
+      "10188 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "29",
+    "Question": "How to target variable until hyphen in RegEx if used in a javascript mongoose find?",
+    "Summary": "I'm trying to find all products in JavaScript with Mongoose .find that are identical to another array before the hyphen. For example: sku in database 10043, sku in array 10043-2. I'm trying to solve ...",
+    "Tags": "javascript node.js regex mongoose",
+    "User": [
+      "Huckleberry Fin",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "12",
+    "Question": "Lightbox Cushycms",
+    "Summary": "I noticed that when I use lightbox with cushycms I am unable to update the <a> along with the image itself. There is not much out there on this subject and if there is , its very vague, so was ...",
+    "Tags": "javascript html jquery",
+    "User": [
+      "Andz",
+      "2144 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "Upload pdf from one server to another server jquery",
+    "Summary": "I have a pdf file stored in one location and I want to upload that file using jquery ajax to another server. For example: My pdf location is: http://localhost:3030/sales-print.php?sales_id=123 I want ...",
+    "Tags": "javascript jquery ajax",
+    "User": [
+      "Hello World",
+      "1,22622 gold badges1515 silver badges4141 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "0",
+    "Views": "23",
+    "Question": "adding javascript to html to change background color on mouseover?",
+    "Summary": "i'm unsure how to write it, im writing my javascript in a seperate file with the script linked into my html. in my html i wish to change the color of the background for my h2 and my nav elements to a ...",
+    "Tags": "javascript html css interactive",
+    "User": [
+      "Daragca",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "19",
+    "Question": "Javascript bug? Code with same logic gives different results [duplicate]",
+    "Summary": "document.getElementById(\"volslider\").value -= -step; //WORKS as intended document.getElementById(\"volslider\").value += step; //Takes slider to 50/100 for any step value <input type=\"range\" id=\"...",
+    "Tags": "javascript html",
+    "User": [
+      "Windfish",
+      "3133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "3",
+    "Answers": "1answer",
+    "Views": "24",
+    "Question": "Problem with an input tag in a function - React JS",
+    "Summary": "So I'm trying to render an input tag conditionally so that is why I'm using a function instead of just putting it all into a return statement. The issue I'm encountering is whenever I type a single ...",
+    "Tags": "javascript reactjs",
+    "User": [
+      "SnaccOvenFlour",
+      "15111 silver badge88 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "25",
+    "Question": "How can i fix this undefined output text in javascript function [duplicate]",
+    "Summary": "I make a simple calculator using javascript. I am providing those code below. But the problem is when i run those code. i saw a undefined output. I dont know why that text is showing. I want to remove ...",
+    "Tags": "javascript",
+    "User": [
+      "Rafiul Islam Rana",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "17",
+    "Question": "Cookie token sending to server via header",
+    "Summary": "This is my first attempt to dealing with server Using React and express Saving token to browser cookie from server //After login request res.cookie('token', token, {maxAge: 3600000} ).json({ user: ...",
+    "Tags": "javascript reactjs express backend",
+    "User": [
+      "Hunter",
+      "1,31344 gold badges1313 silver badges2323 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "18",
+    "Question": "How to return data with swr in react?",
+    "Summary": "I try to display data and I use swr data fetching with react and here is the code : import useSWR from \"swr\"; import axios from \"axios\"; const fetcherFunc = (...args) => { ...",
+    "Tags": "javascript reactjs axios swr",
+    "User": [
+      "Mahdi Faraji",
+      "73466 silver badges2222 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "16",
+    "Question": "Can I change the language I get using disease.sh API?",
+    "Summary": "I'm looking but I can't find anything in the documentation: https://disease.sh/docs/#/ I used to change the language using other APIs like openWeather, but disease.sh, is it possible that you can't?",
+    "Tags": "javascript api",
+    "User": [
+      "Ca\u00edn",
+      "9566 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "5",
+    "Question": "Not launching css and js on wp Suki theme",
+    "Summary": "Can you help with the launching video.css, page.css, video.js After adding to function.php (theme suki) <?php /** * Suki functions and definitions * * @link https://developer.wordpress.org/...",
+    "Tags": "javascript css wordpress",
+    "User": [
+      "ANFET ANFET",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "26",
+    "Question": "jQuery - sort any given JSON chronologically",
+    "Summary": "I have this JSON array which I am trying to render into chartistJs. However the outcome of this JSON is not formatted in chronological order. [ {\"May2021\": \"181287.56\"}, {&...",
+    "Tags": "javascript jquery arrays json monthcalendar",
+    "User": [
+      "Banyan Tree",
+      "3133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "25",
+    "Question": "SyntaxError: Unexpected token, expected \u201c,\u201d (24:4) [closed]",
+    "Summary": "My code is throwing the error- SyntaxError: Unexpected token, expected \",\". (24:4) This is the code: class App extends Component { constructor () { super () this.state={ ...",
+    "Tags": "javascript html reactjs class syntax-error",
+    "User": [
+      "Jungleyes",
+      "133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "2",
+    "Views": "34",
+    "Question": "Can this be an example for Higher Order Component in Javascript?",
+    "Summary": "Can this be an example for higher order components in JS function f1(greet){ console.log(greet); } let f2 = (f1) => { return 'shan' }; console.log(f2()); // 'shan'",
+    "Tags": "javascript",
+    "User": [
+      "Chira Shankar",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "React / Material-ui pagination component works locally but not on the server",
+    "Summary": "Can anyone help with this issue I'm having? [x] The issue is present in the latest release. [x] I have searched the issues of this repository and believe that this is not a duplicate. Current ...",
+    "Tags": "javascript reactjs pagination material-ui next.js",
+    "User": [
+      "Roland Levy",
+      "1111 silver badge11 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "28",
+    "Question": "Assign a clicked ID to a variable",
+    "Summary": "Want to know how I can assign an ID to a variable when clicked. Then, I want to use this variable to set as a title. However, this code is going to be so long. So, when I click an element, I want to ...",
+    "Tags": "javascript html",
+    "User": [
+      "Ra\u00fal",
+      "2144 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "34",
+    "Question": "CORS error when I try to get Data from Backend API",
+    "Summary": "I want to access the User data from the backend API of my project but get the error: Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at http://http//...",
+    "Tags": "javascript vue.js cors",
+    "User": [
+      "Robin G",
+      "2133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "2",
+    "Views": "28",
+    "Question": "How do I use async await with map in the mongoose?",
+    "Summary": "const mapLoop = async _ => { console.log('Start') const promises = books.forEach( async (book) => { const ownerInfos = await User.find({_id: book.Owner}) ...",
+    "Tags": "javascript node.js mongodb mongoose mongoose-schema",
+    "User": [
+      "user15363507",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "43",
+    "Question": "How to submit a form and execute javascript simultaneously",
+    "Summary": "As a follow-up to my last question, I have run into another problem. I am making a project on google homepage replica. The aim is to show search results the same as google and store the search history ...",
+    "Tags": "javascript php html",
+    "User": [
+      "Tony2811",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "3",
+    "Views": "30",
+    "Question": "convert date string into the actual date format?",
+    "Summary": "I have called an API and then get a date which is string format like '15/07/21-23:59:59'. But I want to convert this string into the actual date format like this: **15/07/21** OR **2009-06-01T10:00:00....",
+    "Tags": "javascript reactjs datetime momentjs",
+    "User": [
+      "vjtechno",
+      "7533 bronze badges"
+    ]
+  }
+]

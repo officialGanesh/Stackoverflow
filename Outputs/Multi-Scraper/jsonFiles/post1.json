@@ -1,0 +1,602 @@
+[
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "3",
+    "Question": "Materialize sidenav not working on small devices",
+    "Summary": "I am using Materialize with Django. Navbar is working fine on large screens, but sidenav is not working on small screens. var elems = document.querySelectorAll('.sidenav'); var sidenavInstance = ...",
+    "Tags": "javascript django materialize",
+    "User": [
+      "Sonali Singh",
+      "1133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "3",
+    "Question": "How to add an unsubscribe functionality in Nodemailer?",
+    "Summary": "After looking into the docs for Nodemailer, I couldn't find anything about unsubscribing to an email. I am trying to create a Newsletter for my web-app, and I don't want to use emailing services such ...",
+    "Tags": "javascript node.js nodemailer nodemanager",
+    "User": [
+      "GeorGios",
+      "7122 silver badges1414 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "5",
+    "Question": "Next.js only runs getServerSideProps once, not fetching new data when accessed by next/router",
+    "Summary": "I have a Next.js app with SSR where I export a getServerSideProps async function as follows: export const getServerSideProps = getGenericServerSideProps([\"\"]); getGenericServerSideProps is ...",
+    "Tags": "javascript reactjs next.js next",
+    "User": [
+      "Andrei Flavius",
+      "2311 silver badge44 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "Elements in html not draggable even if draggable=true",
+    "Summary": "I have this html: <h3 id=\"mainCategories\" ondrop=\"drop0\" draggable=\"true\">Main categories</h3> <ul id=\"list\"> <li id=\"0\" ...",
+    "Tags": "javascript html drag-and-drop draggable",
+    "User": [
+      "Lorenzo Cutrupi",
+      "5533 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "10",
+    "Question": "Selection of multiple similar HTML elements to store its content in an array Using JavaScript",
+    "Summary": "I want to select h3 element content to be stored in an array. So how to select all h3 elements and store its content. I used querySelectorAll() to select all similar elements but unsuccessful in ...",
+    "Tags": "javascript html arrays queryselector",
+    "User": [
+      "NVC",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "Why does the ready event not fire if the function is async [duplicate]",
+    "Summary": "// Does not fire $(document).ready(async function() { alert(\"im ready\"); }); // Does fire $(document).ready(function() { alert(\"im ready\"); }); // Annoying fix $(document)...",
+    "Tags": "javascript jquery async-await dom-events document-ready",
+    "User": [
+      "John",
+      "5,05633 gold badges3333 silver badges6060 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "React component life cycle: what is difference between render and return and happens after the return?",
+    "Summary": "This is a generalized question about concepts in react component life cycles. Below is some example code. Please treat the code as just a vague reference. const Modal = ({ className, variant, ...",
+    "Tags": "javascript reactjs",
+    "User": [
+      "Kid_Learning_C",
+      "1,07311 gold badge1313 silver badges2525 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "10",
+    "Question": "How to load images and description for hotels using travel advisor api",
+    "Summary": "let cities=['Delhi', 'Goa', 'Hyderabad', 'Kolkata', 'Chennai', 'Agra', 'Jaipur', 'Bengaluru']; let cities_data=[]; for(let i=0; i<cities.length; i++) { var xhttp = new XMLHttpRequest(); ...",
+    "Tags": "javascript",
+    "User": [
+      "asdf_lkjh",
+      "333 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "TypeError: Cannot read property 'height' of undefined at setNodeHeight on react-pdf/renderer",
+    "Summary": "I want to generate a multipage pdf with react-pdf/renderer and I have the following error \"TypeError: Cannot read property 'height' of undefined at setNodeHeight\". The problem occurs when I ...",
+    "Tags": "javascript reactjs pdf",
+    "User": [
+      "Pierre Cazeneuve",
+      "2155 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "Accessing field values across multiple HTML pages with JavaScript",
+    "Summary": "I am practicing Django on a dummy project and it contains several HTML pages. The pages have forms that have some numeric fields. I want to perform some calculation and logic to define some particular ...",
+    "Tags": "javascript html django",
+    "User": [
+      "noob87",
+      "7966 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "16",
+    "Question": "Q: can I use react with PHP? [closed]",
+    "Summary": "I was looking for a react.js course and I saw that it's just like node requires port, etc, and the file extension is js, we all know that PHP requires .php, if I'm wrong please correct me and feel ...",
+    "Tags": "javascript php node.js frontend backend",
+    "User": [
+      "BrokenHeart",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "26",
+    "Question": "getting id of trigger in javascript",
+    "Summary": "Let me preface this by making 2 things clear: I am extremely well aware that the way that you send an Id is like this: onclick=\"sendMyId(this.id);\" function sendMyId(id){ } Done it what ...",
+    "Tags": "javascript",
+    "User": [
+      "Daniel Bengtsson",
+      "12122 silver badges88 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "3",
+    "Views": "27",
+    "Question": "React cannot update state",
+    "Summary": "I can't figure why I can't update my state (see setCoords). The request returns with a 200 code and the elements I'm trying to retrieve exists : Here is my code : const App = () => { const [...",
+    "Tags": "javascript reactjs react-hooks react-state",
+    "User": [
+      "Bonsai Noodle",
+      "1133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "12",
+    "Question": "How to hide or show text(years old) if value(selectedPatient.age) is returned? React",
+    "Summary": "Hello I need to display years old on the screen only when I get the value from selectedPatient.age, visible or hidden import React, { useContext } from 'react'; import { useHistory } from 'react-...",
+    "Tags": "javascript html css reactjs",
+    "User": [
+      "Artemij",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "30",
+    "Question": "javascript function, won't return to values?",
+    "Summary": "I'm trying to simplify a javascript function so it's more readable Currently I'm trying to change this function below. export default function generateSentimentLineGraphPoints(items) { /** * ...",
+    "Tags": "javascript reactjs",
+    "User": [
+      "LeCoda",
+      "17922 gold badges2020 silver badges4747 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "What should I test in React pages? [closed]",
+    "Summary": "I have a set of react components, basically like bootstrap, I have tested that they render the correct styles depending on the props. Now I composed these components to make a page that shows a user ...",
+    "Tags": "javascript reactjs jestjs react-testing-library",
+    "User": [
+      "rksh1997",
+      "75244 silver badges1414 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "How can I graph an algebraic function and display it on the screen? [closed]",
+    "Summary": "I need to make a website where I can graph an algebraic function and display the graph as a line on a plane. I've tried everything I can, but nothing worked. Maybe there are javascript libraries that ...",
+    "Tags": "javascript",
+    "User": [
+      "Kuzma Morev",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "6",
+    "Question": "n8n workflow node Execute Command under Windows does not work with some GUI-related commands",
+    "Summary": "I\u2019m test-driving Execute Command node of [n8n][1] on Windows. The test command looks like this mshta vbscript:Execute(\"msgbox \"\"this is an action\"\", 0,\"\"action\"&...",
+    "Tags": "javascript node.js automation n8n",
+    "User": [
+      "kakyo",
+      "7,71899 gold badges5656 silver badges9797 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "Mongodb aggregate $size not returning results?",
+    "Summary": "I have data like this: [ { \"_id\": \"60ccb13a21d65f0c7c4c0690\", \"username\": \"testuser\", \"friendRequests\": [ { \"_id\"...",
+    "Tags": "javascript node.js mongodb ejs",
+    "User": [
+      "Chan Kim",
+      "10155 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "17",
+    "Question": "Control user input on number of array",
+    "Summary": "I have created buttons using the user input and I am doing the search accordingly with my api. But I want to limit to 7 topic and each item user enter new topic then the one of the old topic is gets ...",
+    "Tags": "javascript arrays local-storage",
+    "User": [
+      "Tika Kandel",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "19",
+    "Question": "How can I append an item to a list in js in reactjs",
+    "Summary": "I created a Parent Component js file and changed the state fo numbers list by adding 10 to it but it is showing error as there is no push funtion.Could anyone help me with this?? import React, { ...",
+    "Tags": "javascript reactjs list",
+    "User": [
+      "Mayank Jaiswal",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "8",
+    "Question": "Terminal doesn't launch in vscode even after adding path to cwd",
+    "Summary": "Terminal doesn't launch in vscode. Shows error as tries to open previous file path. I have changed to desired path in cwd, still gives the same error.",
+    "Tags": "javascript html css visual-studio-code terminal",
+    "User": [
+      "Shaheera Faheem",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "5",
+    "Question": "Canvas Platform game JS - Collision",
+    "Summary": "So, I tried create a platform game, but for 5 days I've had a problem with collision, if my gravity is too great (character falls from high distance), even if conditional exists my object stucks ...",
+    "Tags": "javascript canvas collision gravity",
+    "User": [
+      "Kosa TV",
+      "133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "5",
+    "Question": "Responsive Main Navigation alignment error",
+    "Summary": "// Menu animation $('.scroll-to-section a[href*=\\#]:not([href=\\#])').on('click', function() { if (location.pathname.replace(/^//,'') == this.pathname.replace(/^//,'') && location.hostname == ...",
+    "Tags": "javascript html css",
+    "User": [
+      "Vijai Kumar",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "14",
+    "Question": "is there way store functions looping through them and putting them in a object",
+    "Summary": "how can i sotre these function in object , looping through all of them and putting them in my storeObject var fn1 = function1(); var fn2 = function2(); var fn3 = function3(); var fn4 = function4(); ...",
+    "Tags": "javascript node.js arrays",
+    "User": [
+      "Fares_Essayeh",
+      "6566 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "14",
+    "Question": "How to change CSS properties of a page using dynamic URL building with Express?",
+    "Summary": "Let's say there is an element and I need to simply change the color property: <p id='text'>COLOR</p> <script> document.getElementById('text').style.color = \"red\"; </...",
+    "Tags": "javascript express pug dynamic-url",
+    "User": [
+      "IMAGINE PRODUCTIONS",
+      "522 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "6",
+    "Question": "How to calculate page load time in percentage using javascript",
+    "Summary": "I want to create a preloader that shows page loading in percentages. I know how to calculate page load time but i need this in percentage. how can i get the percentage of page loading time?",
+    "Tags": "javascript html jquery performance page-load-time",
+    "User": [
+      "kinza",
+      "26522 silver badges99 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "5",
+    "Question": "how to handle a lot of request with axios?",
+    "Summary": "I have a database in SQLite, in it I have several tables with approximately 82000 records, but I need to send them to an API, I use the sqlite module to read it, and so far so good, the problem comes ...",
+    "Tags": "javascript foreach axios request",
+    "User": [
+      "Adonys Vald\u00e9s",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "19",
+    "Question": "Order gets lost (Javascript & Node.js)",
+    "Summary": "Im trying todo an automatic video creation system and have one mayor problem: The problem gets lost here: let fullPath = \"script.txt\" fs.readFile(fullPath, 'UTF-8', async (err, data) =&...",
+    "Tags": "javascript node.js",
+    "User": [
+      "Neotastisch",
+      "511 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "7",
+    "Question": "Why when i am searching for something else is deleting the previous contents?",
+    "Summary": "Why when you are searching for something else is deleting the previous contents ?For example first you search for egg and show the contents but then when you search for beef the program deletes the ...",
+    "Tags": "javascript",
+    "User": [
+      "Bleron Mexhuani",
+      "333 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "How to make JS-Coroutines work with ES6 module option?",
+    "Summary": "I've been writing a Typescript program that depends on the js-coroutines package, but for some reason, it doesn't play nice with the \"module\": \"ES6\" compiler option. The TS ...",
+    "Tags": "javascript typescript coroutine",
+    "User": [
+      "Tespy",
+      "59711 gold badge66 silver badges1616 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "4",
+    "Question": "js api for power point addin - is there enough fnctionality to create a proper addin?",
+    "Summary": "I want to create an addin in Power Point with JS Api for PPt, but it seem to lack functionality. For example , I want to push and pull data to and from the document into the addin taskpane, and i want ...",
+    "Tags": "javascript api powerpoint",
+    "User": [
+      "Milan Cutlac",
+      "1111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "7",
+    "Question": "Can't conversejs override method in class",
+    "Summary": "I have a problem when trying to override the method renderMessageText in the message class. the overriding renderMessageText method not running. How to override this method? const plugin = { ...",
+    "Tags": "javascript converse.js",
+    "User": [
+      "Dong Nguyen",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "4",
+    "Question": "Jquery Orgchart \u2014 Unable to create a node while dragging and drop it on another node",
+    "Summary": "I am creating the below org chart using JQuery Orgchart.js. This library doesn't have drag drop functionality, so i am trying to write it of my own . Below is the picture of Orgchart enter image ...",
+    "Tags": "javascript jquery orgchart",
+    "User": [
+      "sfdc fox",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "14",
+    "Question": "Scroll to element when redirected using <Link> React",
+    "Summary": "I have this code which redirects to a component when clicked, <Link to=\"/dashboard\" component={Dashboard}> Click Here </Link> Clicking on this takes me to the Dashboard ...",
+    "Tags": "javascript reactjs",
+    "User": [
+      "vaibhav deep",
+      "17199 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "24",
+    "Question": "How can I create a function that creates a unique string from inputs str a and b?",
+    "Summary": "I'm very new to javascript and I was wondering if anyone could help me on this question? With strings a =\"xyaabbbccccdefww\" and b=\"xxxxyyyyabklmopq\". I'm supposed to create a ...",
+    "Tags": "javascript",
+    "User": [
+      "Benjamin",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "12",
+    "Question": "QuerySelectorAll using a class and index number",
+    "Summary": "document.querySelectorAll('.fixers > track > tnty') On the DOM there are many classes named fixers is there a way to include what class number to use something like document.querySelectorAll('....",
+    "Tags": "javascript selectors-api",
+    "User": [
+      "Jane Laville",
+      "3911 silver badge77 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "14",
+    "Question": "Java script keypress event",
+    "Summary": "I am trying to use the keypress event in my project to start a countdown timer but I keep getting a decrement for every keystroke. I don't know what's wrong with my js code. var timeleft = 60; var ...",
+    "Tags": "javascript",
+    "User": [
+      "Nathan Jere",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "How to get Game Names from a text string?",
+    "Summary": "Hello guys I'm looking for a way to get game names from text strings, I had some Ideas and coded it but I have some problems like when Im searching for a game named \"Bridge Constructor: The ...",
+    "Tags": "javascript",
+    "User": [
+      "Alp Durak",
+      "155 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-4",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "i have some doubts with this question. Anyone please hep me to fix this",
+    "Summary": "Quadratic equation is an equation with degree 2 in the form of ax2 +bx + c = 0 where a, b and c are the coefficients. Implement a program to solve a quadratic equation. Find the discriminant value ...",
+    "Tags": "javascript",
+    "User": [
+      "vaigha sharma",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "3",
+    "Views": "21",
+    "Question": "How to check equality of two objects, one object's attribute's type is number other ones type is string but they are numbers",
+    "Summary": "How to check equality of two objects which is one object type is number other one comes as a string type but a number var\u00a0object1\u00a0=\u00a0{\u00a0 x1: \"1.000000\", x2: undefined, ...",
+    "Tags": "javascript typescript ecmascript-6",
+    "User": [
+      "Chamie",
+      "1744 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "3",
+    "Views": "19",
+    "Question": "Uncaught Reference Error: draw is not defined - pls help me",
+    "Summary": "I am trying to complete This tutorial on making a Ping Pong game using JavaScript and HTML. I've followed each step in the video multiple times. While my code seems to match the code in video I keep ...",
+    "Tags": "javascript",
+    "User": [
+      "Flaver",
+      "1"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "0",
+    "Views": "21",
+    "Question": "Is there any alternative to select css selector directly without adding it into HTML? [closed]",
+    "Summary": "const colors = [\"galaxy\", \"green lime\", \"rgba(133,122,200)\", \"#f15025\"]; const galaxy = document.querySelector('.galaxy'); const greenLime = document.querySelector('.gree-lime'); const bgColors = [...",
+    "Tags": "javascript html css arrays dom",
+    "User": [
+      "Jeatz",
+      "144 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "7",
+    "Question": "Wait for injected script execution to finish in Chrome Extension",
+    "Summary": "I have this function that runs when a certain button in my popup.html is clicked popup.js async function execute () { console.log(\"Executing...\") const [tab] = await chrome.tabs....",
+    "Tags": "javascript google-chrome-extension service-worker",
+    "User": [
+      "H3lltronik",
+      "15611 silver badge1414 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "Transfering Javascript code from global variables to classes",
+    "Summary": "I'm trying to transfer my Javascript code from global variables to classes, but I got stuck with transferring data between classes. Here is the example of my old code which uses global variables. var ...",
+    "Tags": "javascript",
+    "User": [
+      "Anton M",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "How to call injectable angular service from Javascript",
+    "Summary": "I have angular service in /src/app/services/myservice.ts as @Injectable() export class MyService { constructor(@Inject(ACESS_TOKEN) private interface: IMyInterface, private http: HttpClient) { } ...",
+    "Tags": "javascript angular typescript",
+    "User": [
+      "ahnirab",
+      "8611 silver badge66 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "18",
+    "Question": "AddEVentListener not working on created Element",
+    "Summary": "I am looping through an array and appending the items in the array to an li i created using a function in JS. i want to add a doubleCLick eventListener to console.log the li values but for some reason ...",
+    "Tags": "javascript",
+    "User": [
+      "Babadinho",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "23",
+    "Question": "how did an empty useState array match with the data?",
+    "Summary": "everyone. The initial value of cartItems is an empty array []. When we add product on onAdd how can it match with cartItems when it's empty. import React, { useState } from 'react' import Header ...",
+    "Tags": "javascript reactjs",
+    "User": [
+      "Roshan",
+      "711 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "8",
+    "Question": "Changing the element of an array created from the props inside the child component also affect the parent component's props | Vuejs 3",
+    "Summary": "I have a parent component(App) in which I have an array of objects. I passed this array as a prop to the child component(UserLocations). Now inside the child component, I use this array and create a ...",
+    "Tags": "javascript arrays vue.js spread",
+    "User": [
+      "Sachin Kumar",
+      "2,20311 gold badge1414 silver badges3232 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "Does console.log prevent referential transparency and memoization",
+    "Summary": "I am currently reading up on functional programming for JavaScript and came across the concept of referential transparency. If I understood it correctly it means that a function which is referentially ...",
+    "Tags": "javascript functional-programming v8 memoization referential-transparency",
+    "User": [
+      "IceRevenge",
+      "73255 silver badges2020 bronze badges"
+    ]
+  }
+]

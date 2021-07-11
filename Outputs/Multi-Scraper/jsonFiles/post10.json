@@ -1,0 +1,602 @@
+[
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "43",
+    "Question": "How do I do custom sorting order of columns in jquery? (How do I get correct column values to add in the colorder_arr?)",
+    "Summary": "Before I ask a question I have to describe my program a bit (Please tell if something is unclear). The code goes through X nr of sorting-elements based on how many columns are fetched from a file and ...",
+    "Tags": "javascript jquery arrays",
+    "User": [
+      "bestprogrammerintheworld",
+      "5,04866 gold badges3636 silver badges6868 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "17",
+    "Question": "javascript create element not working in electron",
+    "Summary": "I am trying to make an application in electron. What it does is that it takes the names of image files from a json file and loads it in the app. But it does not seem to be working. This is my ...",
+    "Tags": "javascript html electron",
+    "User": [
+      "hasan ramp",
+      "5666 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "10",
+    "Question": "How to change button icons of the react slick carousel when autoplay is on?",
+    "Summary": "My reactJS web page has this react-slick carousel with 2 buttons inside. One is to pause the autoplay and the other is to start the autoplay The autoplay is working and the pause button is also ...",
+    "Tags": "javascript reactjs carousel slick.js autoplay",
+    "User": [
+      "Chuck_Norris",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "Global variables, which is accessed via different html files are reset everytime I open the page? [duplicate]",
+    "Summary": "So, I just want to define some variables, and change their value according to the user action(page visit) script_variables.js var visitedPage1 = 0 ; var visitedPage2 = 0; var visitedPage3 = 0; ...",
+    "Tags": "javascript global-variables",
+    "User": [
+      "kb34",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "23",
+    "Question": "Show default image in react project",
+    "Summary": "I'm retrieving data using a free API. I'm trying to use a default image for the objects that do not have them. This is the structure of my project: In movies.service.tsx I fetch the data and assign ...",
+    "Tags": "javascript reactjs api fetch default",
+    "User": [
+      "grubbyGerbil",
+      "2944 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "16",
+    "Question": "ESMs are always file-based",
+    "Summary": "ES Modules First, there\u2019s no wrapping function to define a module. The wrapping context is a file. ESMs are always file-based; one file, one module. I found this sentence from \"you don't know js ...",
+    "Tags": "javascript",
+    "User": [
+      "Kasun Wickramanayake",
+      "11722 silver badges88 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "25",
+    "Question": "Reference Error undefined function in Javascript only sometimes",
+    "Summary": "I am getting an error \"Reference Error undefined function in Javascript on click\" but on sometimes. I almost all its working fine but in few systems giving error. I am not able to find what ...",
+    "Tags": "javascript",
+    "User": [
+      "Amit",
+      "1133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "4",
+    "Views": "35",
+    "Question": "Component doesn't display",
+    "Summary": "I have a header.tsx file with: import React from \"react\"; export const Header = (title:any) => { return ( <div> <h1>{title}</h1> </...",
+    "Tags": "javascript reactjs typescript webpack",
+    "User": [
+      "Jase",
+      "85711 gold badge77 silver badges2525 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "37",
+    "Question": "Javascript, txt-file \u201cscraping\u201d, can't figure how to find whole words instead of parts of em",
+    "Summary": "I have this coding assignment where I am supposed to extract rules for a game from txt-file. Problems is that I can't figure out how to pick only exact numbers instead of parts of em (eg. \"11&...",
+    "Tags": "javascript regex",
+    "User": [
+      "Wiscariot",
+      "1111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "4",
+    "Views": "55",
+    "Question": "html input save var into javascript file",
+    "Summary": "I'm trying to save a user input from an HTML file into a .js file. Can someone help me and teach me how to do it? HTML FILE <form > <label for=\"size\">Enter size:</label> ...",
+    "Tags": "javascript html",
+    "User": [
+      "Denny Vidotto",
+      "2333 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "26",
+    "Question": "How to remove row after being deleted from its endpoint",
+    "Summary": "How can I update the table when some event is deleted? The action is deleting the event from DB, however, the row is there. How can I remove the row after using the function DeleteThis. <div id=&...",
+    "Tags": "javascript asp.net asp.net-mvc asp.net-core",
+    "User": [
+      "Robert",
+      "1533 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "12",
+    "Question": "Disable maximizing in electron",
+    "Summary": "So I have an electron app. I have set maxWidths and maxHeights but how do I disable maximizing. I have already made custom buttons for ms-windows but i don't want to remove the traffic lights on mac. ...",
+    "Tags": "javascript node.js electron",
+    "User": [
+      "Isaac",
+      "111 silver badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "Adjust d3 tree layout zoom effect and also how to move to certain position on the tree",
+    "Summary": "After I applied zoom effect on tree layout I found that the zoom in, always start from the center not from the position the mouse stop and also on mobile devices not from the position my finger touch ...",
+    "Tags": "javascript reactjs d3.js",
+    "User": [
+      "Ahmed Abdelrahman",
+      "3544 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-11",
+    "Answers": "2",
+    "Views": "49",
+    "Question": "Javascript indexOf not working with some value with text and number inside [duplicate]",
+    "Summary": "I have these below javascript with indexOf function. var arr = ['E8DB84DCA22F','C44F337FB12D','123456789ABC']; var str = 'E8DB84DCA22F'; console.log(arr.indexOf(str)); When I tried to print the ...",
+    "Tags": "javascript",
+    "User": [
+      "HiDayurie Dave",
+      "1,57911 gold badge1515 silver badges3131 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "38",
+    "Question": "Return Exact Same Image Coordinates in JavaScript After Screen Resize",
+    "Summary": "I want to retrieve the exact coordinates on a png of a football field. I'm able to get some coordinates using offsetLeft and offsetTop, but unfortunately these begin to vary once the image is resized, ...",
+    "Tags": "javascript reactjs image coordinates react-bootstrap",
+    "User": [
+      "clattenburg cake",
+      "74122 gold badges1010 silver badges2020 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "27",
+    "Question": "How to sort table in ascending and descending order using vanillaJS?",
+    "Summary": "I am getting data from rest-countries api. How to Allow table to sort by every column (except flag) with ascending / descending order (Using vanillaJS)? I am new to programming and If the question is ...",
+    "Tags": "javascript",
+    "User": [
+      "bigBadWolf",
+      "1944 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-4",
+    "Answers": "0",
+    "Views": "25",
+    "Question": "Go to instagram page",
+    "Summary": "Hello friends I have a text input and a link In this input, we have to enter the Instagram id And click on the link to go to the desired page How do I do this with JavaScript? <div class=\"...",
+    "Tags": "javascript html input",
+    "User": [
+      "Mohsen Mozzafari",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "How can I give reference of my images in the media/images folder in a JS file",
+    "Summary": "I came across this JS code that is used in a program to display images in a grid format. But here the reference images are taken from the external source - Unsplash as backgrounds for the divs. I want ...",
+    "Tags": "javascript image reference display",
+    "User": [
+      "Rocky_GIT",
+      "1133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "33",
+    "Question": "Javascript iterating through JSON file",
+    "Summary": "{ \"comments\": [ { \"created_utc\": 1622513325, \"text\": \"gdhg sgf sddsfsd fdsf\" }, { \"created_utc\": 1622513188, &...",
+    "Tags": "javascript json",
+    "User": [
+      "WallStreetBets",
+      "2111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "0",
+    "Views": "20",
+    "Question": "how to access \u201c#document\u201d with js? [duplicate]",
+    "Summary": "look the below image :- As in the image there is a \"#document\" how can I access that using JS ?",
+    "Tags": "javascript html css",
+    "User": [
+      "Goldblow",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "0",
+    "Views": "19",
+    "Question": "Javascript push() method is not recognizable [duplicate]",
+    "Summary": "Its not duplcate uestion please answer it. Urgent var friendstatus = []; User.findOne({ name: req.user.displayName }, function(err, n) { if (err) { ...",
+    "Tags": "javascript node.js express",
+    "User": [
+      "Yash Singhal",
+      "733 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "7",
+    "Question": "strapi slug Hebrew character support",
+    "Summary": "I am having an issue finding any documentation regarding allowing the strapi slug filter manipulation I would like to allow it to whitelist Hebrew characters. at current state when trying to change ...",
+    "Tags": "javascript node.js strapi",
+    "User": [
+      "Vad.Gut",
+      "50311 gold badge55 silver badges1818 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "38",
+    "Question": "Is there a way to use the everyone role in discord.js",
+    "Summary": "I'm trying to make my lock and mute command work with a per server settings command I recently made with mongodb. I want it to be where it gets the member role from the database (roles.cache.get(...",
+    "Tags": "javascript node.js mongodb discord.js",
+    "User": [
+      "FaderR",
+      "333 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "32",
+    "Question": "Nodejs + mySQL data does not get sent to my database",
+    "Summary": "I am trying to create a register and login page where the registered user's details are setn to the database and then from there they are used to verify login. The sign up button is supposed to send ...",
+    "Tags": "javascript mysql node.js reactjs express",
+    "User": [
+      "Chirag Maurya",
+      "311 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "22",
+    "Question": "JS code don't work on Chrome or Opera in a Wordpress website",
+    "Summary": "I have this JS code in a WordPress website, and it works only on Firefox but not on other browsers. This code should sort elements of each container(each container called Type) A-Z. I tried to write ...",
+    "Tags": "javascript wordpress google-chrome firefox",
+    "User": [
+      "Badr",
+      "1"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "2",
+    "Views": "38",
+    "Question": "Why am I getting \u201cTypeError: x.map is not a function\u201d in React?",
+    "Summary": "I am trying to pass a json object as a prop to a child component and then parse it using map(), but I'm getting the error \"TypeError: x.map is not a function\". But this error occurs only in ...",
+    "Tags": "javascript reactjs",
+    "User": [
+      "Adriano Lazzaretti",
+      "733 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "Trying to load multiple modules as middleware inside vue router wont work",
+    "Summary": "Inside the vue router in my SPA I wanted to make it possible to load multiple modules if needed, at the moment it will load just 1 module. I wanted to seperate code rather than dumping all in 1 file ...",
+    "Tags": "javascript vue.js vue-router",
+    "User": [
+      "user759235",
+      "1,76033 gold badges3030 silver badges5656 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "30",
+    "Question": "Dynamically Javascript to increase the value of checkbox",
+    "Summary": "I'm having trouble increasing the value of the checkbox automatically which is sitting inside a table. So, in short, In my HTML table, I have text boxes and a checkbox present as a row(default 5 rows ...",
+    "Tags": "javascript",
+    "User": [
+      "change198",
+      "85788 silver badges2323 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "17",
+    "Question": "Unable to update JS local variables in Sources window in Chrome",
+    "Summary": "Why do the local vars in Chrome's Sources tab have different names to what is in the JS code? The local n is the threadID var in the JS code: The trimmed down version of the code looks like this: (...",
+    "Tags": "javascript angularjs google-chrome",
+    "User": [
+      "David Klempfner",
+      "6,7911515 gold badges4747 silver badges104104 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "29",
+    "Question": "How to output prettified raw HTML code inside an Editable DIV",
+    "Summary": "I have been trying to output raw HTML inside an editable DIV, but the <div> gets commented out. This is what I am trying to output (Including the ``) : \\`<div class=\"flexContainer\"&...",
+    "Tags": "javascript html pretty-print",
+    "User": [
+      "Program-Me-Rev",
+      "5,3781111 gold badges4848 silver badges110110 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "11",
+    "Question": "JavaScript code for window.speechSynthesis not working from localhost",
+    "Summary": "Following code works fine in Chrome DevTools but when I run this through localhost allVoices returns an empty array. tts = window.speechSynthesis // from here code only works if put into DevTools, ...",
+    "Tags": "javascript google-chrome-devtools text-to-speech",
+    "User": [
+      "ShivCK",
+      "46944 silver badges1313 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-4",
+    "Answers": "0",
+    "Views": "18",
+    "Question": "Whats advantages to Node on the Server? [closed]",
+    "Summary": "So say I have gulp and moment.js... In my react folder I can run npm start npm build then deploy /build to server... and things will run. What are the benefits?",
+    "Tags": "javascript npm server server-side-rendering",
+    "User": [
+      "Malik Dunston",
+      "133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "18",
+    "Question": "Google chart misbehaving when interacting with java code in jsp file",
+    "Summary": "I'm facing some issues with putting my data instead of the preloaded data in google charts. My google charts (and the java code referring to a java class) are in a jsp file just like this <%@ page ...",
+    "Tags": "javascript java jquery jsp google-app-engine",
+    "User": [
+      "Ale99",
+      "933 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "0",
+    "Views": "17",
+    "Question": "im using Symfony and javascript is not loading in my website?",
+    "Summary": "Im beginner so excuse my skills. Im building website using html css javascript twig When i load my website everything works fine except javascript does not load. I used this script lo link it <...",
+    "Tags": "javascript",
+    "User": [
+      "kRYSTAL 98",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "3",
+    "Views": "27",
+    "Question": "Error: Uncaught [TypeError: Cannot read property 'x' of undefined Jest react testing",
+    "Summary": "I'm new to react and testing so maybe I'm misunderstanding the docs but I have a function that defines a const variable which is just an array of objects that has a property 'X', we'll call it. I ...",
+    "Tags": "javascript reactjs ts-jest",
+    "User": [
+      "CEO of Pizza",
+      "322 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "26",
+    "Question": "path.join() adding tabs and newlines (node.js)",
+    "Summary": "Here, filePath is not showing the correct output, it is performing the path joining correctly but adding unnecessary tabs and newlines. let folderPath = path.join(__dirname, topicName); console.log(...",
+    "Tags": "javascript node.js",
+    "User": [
+      "Nishant Bharwani",
+      "511 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "31",
+    "Question": "Access to Myclass methods of a Type<MyClass> Object [closed]",
+    "Summary": "To follow the angular tutorial \u00ab\u00a0dynamic component\u00a0\u00bb, i had to use an object of type Type (see https://stackblitz.com/angular/mkajnaabomx?file=src%2Fapp%2Fad-item.ts). Now I need to access to this ...",
+    "Tags": "javascript node.js angular typescript",
+    "User": [
+      "Auloma",
+      "1722 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "Convert wmf to png using javascript",
+    "Summary": "Currently I am doing a project to convert docx files to html, everything is fine but mathtype is not able to convert, is there any way to convert mathtypes in docx files to png files using javascript? ...",
+    "Tags": "javascript node.js image png wmf",
+    "User": [
+      "guest",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "14",
+    "Question": "What is wrong with this Lighthouse audit? Can I install a PWA from http://localhost",
+    "Summary": "I have a PWA that passes the Lighthouse audit on Chrome for an installable PWA but I never get prompted to install it and the \"beforeinstallprompt\" event never fires. I am developing/...",
+    "Tags": "javascript mobile progressive-web-apps lighthouse",
+    "User": [
+      "McMurphy",
+      "1,16911 gold badge99 silver badges3131 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "30",
+    "Question": "PHP+JS Form - Paste page URL into the email form after submitting",
+    "Summary": "I have a basic form and after sending the form I need to insert the URL of the page into the e-mail so that I know where the user filled in the form. I tried more options that I found in this forum, ...",
+    "Tags": "javascript php html css forms",
+    "User": [
+      "Jan Havi\u010d",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "19",
+    "Question": "How can I send data to a specific email address after filling a form on my website?",
+    "Summary": "recently my built my first using wordpress, in my website there is a file uploading option in various forms that I made using plugin called Contact Form 7. Also I have converted my website into an app ...",
+    "Tags": "javascript php html wordpress forms",
+    "User": [
+      "user16419292",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "16",
+    "Question": "Flatlist not re rendering while using localization in react native",
+    "Summary": "I want to use localization in my app to use multiple languages in my react native app. It is working fine for normal Text in the app but I am unable to change it in Flatlist. Below is my Flatlist code ...",
+    "Tags": "javascript reactjs react-native i18next",
+    "User": [
+      "Bhaskar Joshi",
+      "9111 silver badge88 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "3",
+    "Views": "28",
+    "Question": "Disable input fields inside non selected div elements",
+    "Summary": "I have input fields inside a div. I want to disable all the input fields where the div id is not equal to certain variable. For example I have an id == 12, i want to disable all input fields inside ...",
+    "Tags": "javascript html jquery",
+    "User": [
+      "Michel Setyawan Mulyono",
+      "3544 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "3",
+    "Views": "44",
+    "Question": "Undefined return in a 'then' chain",
+    "Summary": "I am building an app with node and angular and when I request this specific endpoint, I am getting returned with an empty array '[]'. I put the return statement in the final 'then' block, but this ...",
+    "Tags": "javascript node.js mean-stack",
+    "User": [
+      "xxcapzxx",
+      "522 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "21",
+    "Question": "I had written test case for case switch but i am not able to cover break in the code",
+    "Summary": "This is the code which I have to test : getTransitionMethod(transition) { switch (transition) { // ease linear case \"easeLinear\": return ...",
+    "Tags": "javascript reactjs unit-testing jestjs enzyme",
+    "User": [
+      "Shubhankar",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "24",
+    "Question": "Replace search current page contents with search contents",
+    "Summary": "I have few components i.e. about, home, contact, header, footer, search. I am using react-router-dom for routing between all the pages. In App.js I am loading all the components based on routes ...",
+    "Tags": "javascript reactjs react-router-dom",
+    "User": [
+      "Om3ga",
+      "24.3k4040 gold badges123123 silver badges202202 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "27",
+    "Question": "How to add dynamically form-row in a form",
+    "Summary": "I have a form like this. <form action=\"{{route('order.store')}}\" method=\"post\"> @csrf <div class=\"form-row\"> ...",
+    "Tags": "javascript php html laravel",
+    "User": [
+      "Ets\u00e8 FIATSI",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "Can one Electron app detect another and possibly message it?",
+    "Summary": "I'd like to make two separate Electron apps interact with each other, in different levels, depending on what's possible: Have one app detect that the other app is installed; Have one app fetch some ...",
+    "Tags": "javascript electron desktop-application multiplatform electron-forge",
+    "User": [
+      "Diogo Eichert",
+      "30033 silver badges1111 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "Add summary of selected points in the caption in leaflet",
+    "Summary": "I am trying to show a leaflet map using R(I can not use ShinyApp package). I want to show mean of a column for selected points in leaflet caption(or anywhere in map) as following image shows: This is ...",
+    "Tags": "javascript r leaflet",
+    "User": [
+      "Masoud",
+      "26111 silver badge1212 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "21",
+    "Question": "Doing the same function with Multiple click events in jquery",
+    "Summary": "$(document).on('click','#closeNewProductExpand', function() { $('#newProductExpand').css('width', '0'); }); $(document).on('click', '#searchProduct', function() { $('#...",
+    "Tags": "javascript jquery ajax",
+    "User": [
+      "B Mishen Thakshana Mendis",
+      "3766 bronze badges"
+    ]
+  }
+]

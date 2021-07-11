@@ -1,0 +1,602 @@
+[
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "_id property undefined within schema middleware",
+    "Summary": "I am deleting a user and trying to cascade delete the user's posts, comments for each post, and replies for each deleted comment. I keep getting \"undefined\" for the ._id properties within ...",
+    "Tags": "javascript mongoose",
+    "User": [
+      "Garnett",
+      "333 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "8",
+    "Question": "Monorepo: Azure release triggering for single package",
+    "Summary": "I've created a monorepo of two packages managed by Lerna in azure pipeline i uses the following command to build only the package which got changes yarn lerna bootstrap --since HEAD~1 so if I've ...",
+    "Tags": "javascript azure-devops azure-pipelines monorepo lerna",
+    "User": [
+      "Mohammed Magdy Ismael",
+      "10311 silver badge55 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "How to get private key for an ethereum address generated using Extended Public key? [closed]",
+    "Summary": "I have the extended Public key and Private key, how do I generate the private key for an address generated using the extended Public key? If that is not possible, how do I execute a transaction from ...",
+    "Tags": "javascript encryption cryptography ethereum",
+    "User": [
+      "Deb",
+      "10511 silver badge1010 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "45",
+    "Question": "Get clicked letter from p tag",
+    "Summary": "I am trying to get the letter clicked in p tag using javascript. But instead of getting a single word, I am getting the whole tag. function myFunction() { var s = document.getSelection() ...",
+    "Tags": "javascript onclick",
+    "User": [
+      "OSMQuote",
+      "4766 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "15",
+    "Question": "how I can reduce the width of this SVG from only left side other should stay static",
+    "Summary": "I trying the GSAP to control SVG to move from right to left. it's working fine but when I want to animate it to the extreme left side but the down line should stay at the same position. the other side ...",
+    "Tags": "javascript html css css-animations gsap",
+    "User": [
+      "Muhammad Ahmad",
+      "1555 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "0",
+    "Views": "18",
+    "Question": "Caching or memorize - javascript [closed]",
+    "Summary": "function Add (a,b) { return a + b; } /* looks this function always enter code here`returns the sum of two values. Requirements; If I pass same parameters again. It should return sum of values from ...",
+    "Tags": "javascript",
+    "User": [
+      "dhnjay",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "3",
+    "Views": "46",
+    "Question": "Distribution javascript algorithm",
+    "Summary": "Hello please any idea about this frequency distribution algorithm I am trying to write. I've implemented the code below to calculate the frequency distribution algorithm: let class_boundaries = [ ...",
+    "Tags": "javascript",
+    "User": [
+      "Dezynarh",
+      "133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "49",
+    "Question": "JS array not returning index values of specific text even though text exists",
+    "Summary": "fairly new to JS. I have an HTML table with columns in this order: Continent, Country, etc... So far, I have working code that reads the HTML table to create an array for all countries, and then ...",
+    "Tags": "javascript arrays indexing lookup",
+    "User": [
+      "carvalh3",
+      "1533 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "24",
+    "Question": "JQuery not present in inline scripts after switching to Webpacker",
+    "Summary": "I'm switching a Ruby on Rails application from sprockets to webpacker. I'm getting an error for inline javascript in my existing slim templates, JQuery is not defined. I tried adding a require for ...",
+    "Tags": "javascript jquery ruby-on-rails webpacker slim-lang",
+    "User": [
+      "Antarr Byrd",
+      "21.1k2727 gold badges8585 silver badges154154 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "3",
+    "Views": "24",
+    "Question": "Regular Expression RegEx - Multiline / Concatenate / Trim",
+    "Summary": "I have a text such: abc _def ghi_ _efg_ !!! Important: '_' means in my example above a space or not visible char I want a code which gives me the following result: abc;def ghi;efg which means: ...",
+    "Tags": "javascript regex",
+    "User": [
+      "KalemKutu",
+      "2944 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "0",
+    "Views": "28",
+    "Question": "\u00bfComo puedo mandar un objeto en un Ngmodel? [closed]",
+    "Summary": "Este es mi codigo: <input type=\"text\" placeholder=\"Buscar..\" id=\"sku_select\" aria-label=\"number\" matInput [formControl]=\"myControl&...",
+    "Tags": "javascript angular typescript input ngmodel",
+    "User": [
+      "Estuardo Valenzuela",
+      "1"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "TypeError: Cannot set property 'lastcontent' of undefined [duplicate]",
+    "Summary": "What did I do wrong? I'm writing a logging class for a project of mine and it's not letting me define a variable. I declared the variables, everything yet it does not work. Any idea's? here is the ...",
+    "Tags": "javascript class",
+    "User": [
+      "Didier",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "24",
+    "Question": "Is there any way to press windows+prtscreen programitically with the help of javascript in nodejs",
+    "Summary": "Is there any way to press windows+prtscreen programitically with the help of javascript in nodejs. I want to press these two keys programitically in my project using onclick=\"\"; and then the ...",
+    "Tags": "javascript node.js windows",
+    "User": [
+      "Yash Singhal",
+      "1111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "39",
+    "Question": "What does this underscore arrow syntax mean in JavaScript? [duplicate]",
+    "Summary": "The context here is I am looking at a React.js application, and I see: const _onClick = _ => setClick(!clicked); If I understand it correctly, this is shorthand for something like: const _onClick =...",
+    "Tags": "javascript reactjs ecmascript-6 arrow-functions",
+    "User": [
+      "Vukieboo",
+      "59888 silver badges2323 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "16",
+    "Question": "Why radio button switching is not reflecting in redux state variable?",
+    "Summary": "I am working on a react.js app where i am working with redux state management.I have created 2 radio buttons and I am switching between them and setting the state variable correspondingly. Here's my ...",
+    "Tags": "javascript html reactjs redux react-redux",
+    "User": [
+      "rudeTool",
+      "16177 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "21",
+    "Question": "Invalid attepmt to spread non-interable instance inside my Javascript file?",
+    "Summary": "I am getting the following error: new TypeError(\"Invalid attempt to spread non-iterable instance.\\nIn order to be iterable, non-array objects must have a My code: (() => { let images = [.....",
+    "Tags": "javascript webpack babeljs core-js",
+    "User": [
+      "Galanthus",
+      "59055 silver badges1919 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "10",
+    "Question": "If I want certain workflow governance for different users, do I have to incorporate that in my data model?",
+    "Summary": "I'm new to coding and am running into an issue that conceptually has my brain in a pretzel. I'm going to try my best to explain it and will link to my github as well, but here it is.. The music app I'...",
+    "Tags": "javascript database mongodb mongoose data-modeling",
+    "User": [
+      "econobro",
+      "10388 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "27",
+    "Question": "how to select an element generated after a click on an element (callback ?)?",
+    "Summary": "I have made some code to fire some instructions after a click on an html element : const datepicker = document.querySelector(\".datepicker\") datepicker.addEventListener(\"click\", () =...",
+    "Tags": "javascript callback",
+    "User": [
+      "Arnaud NaNo",
+      "1566 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "VUE + VK API + JSONP \u2014 \u043a\u0430\u043a \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0437\u0430\u043f\u0440\u043e\u0441? [closed]",
+    "Summary": "VUE + VK API + JSONP \u2014 \u043a\u0430\u043a \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u0437\u0430\u043f\u0440\u043e\u0441? \u041f\u043e\u0434\u0441\u043a\u0430\u0436\u0438\u0442\u0435 \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u043e\u043f\u0440\u043e\u0441 \u043a\u0430\u0441\u0430\u0435\u0442\u0441\u044f \u043a\u0440\u043e\u0441\u0441\u0434\u043e\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0430 \u0441 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435\u043c JSONP \u0438 VUE JS \u0438 API VK \u0415\u0441\u0442\u044c FAQ vk c \u043f\u0440\u0438\u043c\u0435\u0440\u043e\u043c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f - (\u043f\u0443\u043d\u043a\u0442 4.1.) \u043d\u0430 ...",
+    "Tags": "javascript vue.js",
+    "User": [
+      "E. Ohlobystin",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "Regex expression to replace string in between two characters, removing the first character and keeping the last [duplicate]",
+    "Summary": "Example of string to be parsed : \"HTTPS://$HOST_NAME:3000/page I need a regex expression to replace the \"$HOST_NAME\" with an actual hostname str.replace(/\\$.*:/, {hostname}) How can I ...",
+    "Tags": "javascript regex",
+    "User": [
+      "Bp1205",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "24",
+    "Question": "Why is useQuery making my component re-render when I come back to the tab?",
+    "Summary": "I'm using react-query library, and I looked it up, and useQuery can make your react component re-render because it has states, but the weird thing is that it re-renders when I change tabs (like, I go ...",
+    "Tags": "javascript reactjs axios react-hooks react-query",
+    "User": [
+      "GusDev",
+      "1555 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "How to extract data from nested json in react",
+    "Summary": "I have madethe following code. So I have to retrieve data from json and present them in react. I have basicly one nested .joson object inside the other one. I know to to retrieve needed data from &...",
+    "Tags": "javascript node.js json reactjs",
+    "User": [
+      "Projekat Pr",
+      "2544 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "29",
+    "Question": "How does shallow cloning that is carried out with Object.create work with descriptors, setters/getters?",
+    "Summary": "According to this source: To make a \u201creal copy\u201d (a clone) we can use... for the so-called \u201cshallow copy\u201d (nested objects are copied by reference) or a \u201cdeep cloning\u201d function. So, as far I get that ...",
+    "Tags": "javascript object clone",
+    "User": [
+      "Heaven",
+      "2544 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "15",
+    "Question": "TypeError: Cannot read property 'onMouse' of undefined React Class Component",
+    "Summary": "I want to do when the user clicks on Input Element and the button element in the form will change to Send icon from the microphone icon. My idea was to get the value from onClick or mouseEnter ...",
+    "Tags": "javascript reactjs typescript react-redux ecmascript-2017",
+    "User": [
+      "Chizi56 HappyCity",
+      "311 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "49",
+    "Question": "Remove/Add parent element if class is/isn't active on another element but keep the children",
+    "Summary": "How would I remove multiple parents but keep in the children elements if an \"active\" class exists on another element, then add them back in once the \"active\" class is removed? No ...",
+    "Tags": "javascript",
+    "User": [
+      "thx1138",
+      "8277 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "31",
+    "Question": "How to add an element after the search field in DataTables?",
+    "Summary": "I want to add an extra element in the same row just after the search field in a DataTable. The extra element is just a button which is supposed to call another function to do an other task. Can anyone ...",
+    "Tags": "javascript html jquery datatables",
+    "User": [
+      "Mensi Khalil",
+      "2122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "How to reverse the animation/transition of an added, on-click, class?",
+    "Summary": "I have an icon with an normal and active variants. I have a vue transition to fade in and out the circle and text elements, but have a normal css transition animation for the movement of the icon ...",
+    "Tags": "javascript vue.js animation css-animations vue-transitions",
+    "User": [
+      "LovelyAndy",
+      "18977 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "8",
+    "Question": "What would be an iswgraph() substitute when coding in JavaScript",
+    "Summary": "I want to determin via JavaScript which Unicode code points of a JavaScript string are printable or not. Accessing the code points itself via codePointAt() works. In C/C++ I would then use with a ...",
+    "Tags": "javascript unicode",
+    "User": [
+      "Mostowski Collapse",
+      "12.3k33 gold badges3434 silver badges7878 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "23",
+    "Question": "Do not run linter and prettier while compiling",
+    "Summary": "I have a personal project with some friends where we have configured eslint and prettier and they are running like \"automatically\" when project is compiling. So, while I am working on my ...",
+    "Tags": "javascript eslint prettier",
+    "User": [
+      "Ana",
+      "8099 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "41",
+    "Question": "Discord Bot in NodeJs",
+    "Summary": "I'm trying to make my Code shorter but i cant find the way how to do it bc im not a English native speaker and i cant find the answer in my language so im asking u. (its a discord bot that manages my ...",
+    "Tags": "javascript node.js",
+    "User": [
+      "no_sleep",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "1answer",
+    "Views": "34",
+    "Question": "when i use foreach() its return'List' is not defined [closed]",
+    "Summary": "i am new in react.js and i have a problem with arrays i dont know why its giving me an erore Failed to compile src\\components\\contente.js \u00a0\u00a0Line 19:46: 'list' is not defined no-undef \u00a0\u00a0Line 19:65: ...",
+    "Tags": "javascript reactjs foreach jsx",
+    "User": [
+      "issac15x",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "15",
+    "Question": "sum of price-data according to the selection from multi select dropdown",
+    "Summary": "as per the selection i want total of data-price to be displayed in totalamount input box <HTML> <body> <form name=\"myForm\" action=\"insert.php\" onsubmit=\"...",
+    "Tags": "javascript php mysql drop-down-menu",
+    "User": [
+      "DIGITAL CHOKSHI",
+      "1111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "14",
+    "Question": "How to update state that is passed through react router link",
+    "Summary": "So I am using react-router, and after I send some state with the Link from page1 to page2 <Link to={{ pathname: `/dashboard/edit/${resort.id}`, state: { resort: resort }, }} style={{ ...",
+    "Tags": "javascript reactjs react-router state routerlink",
+    "User": [
+      "Abdurahman Hijazi",
+      "2166 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "20",
+    "Question": "Rupay card number is not detecting in one of the rn - credit- card library of react native",
+    "Summary": "https://www.npmjs.com/package/rn-credit-card Using above Library I created payment card system in my app, visa & master cards are working fine but Rupay card number is not validating correctly. ...",
+    "Tags": "javascript reactjs react-native react-native-android",
+    "User": [
+      "Mahish Dino",
+      "8744 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "27",
+    "Question": "higher order function console.log() [closed]",
+    "Summary": "this is my first post on stackoverflow. Also, I'm new to programming. so.. This is my first week learning JavaScript basics and I stumbled upon higher order functions. here is my code and I want to ....",
+    "Tags": "javascript higher-order-functions",
+    "User": [
+      "nexion",
+      "1"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "11",
+    "Question": "How to display JavaScript alert in Django?",
+    "Summary": "I am creating a simple website in Django. I have a form, and when it is submitted, the user is redirected to a new page. I want to display a javascript alert (example bellow) on the new page when the ...",
+    "Tags": "javascript python django",
+    "User": [
+      "Jahan",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "16",
+    "Question": "vue.config.js does not seem to load",
+    "Summary": "In: https://codesandbox.io/s/dazzling-jepsen-r7283?file=/vue.config.js based on: https://stackoverflow.com/a/68308416/1079483 vue.config.js const path = require(\"path\"); module.exports = { ...",
+    "Tags": "javascript css vue.js vuejs2 less",
+    "User": [
+      "Sebi",
+      "3,4921313 gold badges5454 silver badges9595 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "Extract inputs list (fields) from a pdf file to create an html form in react js",
+    "Summary": "I have been looking for a solution for a project but I can't find anything that fits my needs. I am building an application where the client should be able to fillup some forms. But the input feilds ...",
+    "Tags": "javascript reactjs forms pdf field",
+    "User": [
+      "Atom Min",
+      "6177 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "20",
+    "Question": "SVG: Display alt text in p tag on hover",
+    "Summary": "I'm looking for a way to display the alt-text from an SVG circle when the mouse is over the element: the result I'm working with this javascrip code, but I can't get it to work: var PageTitle = ...",
+    "Tags": "javascript svg",
+    "User": [
+      "Jan Magnussen",
+      "511 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "Material UI's Grid components - Closing vertical gap between rows",
+    "Summary": "Background Say you have two rows of MaterialUI's <Grid> component, and the top row has items of variable height. The row below it will stay aligned with eachother, but the items below the ...",
+    "Tags": "javascript css reactjs responsive-design material-ui",
+    "User": [
+      "Alec",
+      "1,56544 gold badges1515 silver badges3838 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "5",
+    "Views": "38",
+    "Question": "How to make an error message for each empty form field",
+    "Summary": "I am trying to display an error message for each empty field, my problem is that when I submit the form with an empty (one or two) field all the error messages appear. I want only one error message ...",
+    "Tags": "javascript forms",
+    "User": [
+      "HaroldTheCoder",
+      "311 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "29",
+    "Question": "Session Storage vs Local Storage if data is needed for backend frequently",
+    "Summary": "Using Rails 6. Problem Database has 10 cards. Card ID 1, 2, 3, ... 10 Front end allows User to select 2 cards out of 10 cards (e.g. Card 5 and Card 6) The system would select 5 cards randomly If ...",
+    "Tags": "javascript ruby-on-rails",
+    "User": [
+      "Victor",
+      "12.1k1818 gold badges7171 silver badges139139 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "0",
+    "Views": "22",
+    "Question": "How to find combine same key value into one in JavaScript [closed]",
+    "Summary": "I have been trying to combine the same key (UP) and value in an array. Please check the below input. let input = [{ state: \"UP\", city: \"Lucknow\" }, { state: \"UP\",...",
+    "Tags": "javascript ecmascript-6",
+    "User": [
+      "htyagi1",
+      "1944 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "35",
+    "Question": "How do I fix DiscordAPIError: Unknown Message?",
+    "Summary": "I made a bot that deletes text messages in an image channel, but when I use it it's logs this error. client.on(\"message\", async message => { if (message.author.bot) return; const ...",
+    "Tags": "javascript node.js discord.js",
+    "User": [
+      "Uriyah Liberman",
+      "2544 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "Keeping carousel slides structure/order when user zooms in/out",
+    "Summary": "I have this initial setup for an infinite carousel I want to create. When executed it lays the slides from 0 to n one after the other using absolute coordinates and adds the last one to the left of ...",
+    "Tags": "javascript html css carousel",
+    "User": [
+      "Notbad",
+      "4,80066 gold badges3838 silver badges7979 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "33",
+    "Question": "How to format values of the arrays of array as required?",
+    "Summary": "I have the following array which includes arrays of objects. const arr = [ [ { \"key1\": \"keyName\", \"key2\": \"test name1\" }, { &...",
+    "Tags": "javascript arrays sorting object format",
+    "User": [
+      "ruk91",
+      "3711 gold badge22 silver badges99 bronze badges"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "1answer",
+    "Views": "24",
+    "Question": "Ajax send JSON object with two arrays to a servlet and parsing in java servlet without jQuery",
+    "Summary": "I have to send to a servlet two arrays, i use an Ajax POST call that sends a JSON object, and then I have to read the data sent in two lists or arrays in a servlet class in java. I prefer not to use ...",
+    "Tags": "javascript java json ajax",
+    "User": [
+      "lorisgoglia",
+      "2333 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "2",
+    "Views": "23",
+    "Question": "Search a string for different words",
+    "Summary": "I need to search a string to check whether it contains specific words which are stored in an array. And if the string contains the words in the array those words must be highlighted. Before going to ...",
+    "Tags": "javascript arrays typescript",
+    "User": [
+      "Pegasus008",
+      "56133 silver badges1313 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "28",
+    "Question": "i want to send one div innerHtml to another page div for add to cart purpose",
+    "Summary": "let card1 = ()=>{ var a = document.getElementById(\"div1\").innerHTML var newDiv=document.getElementById(\"newDiv\") newDiv.innerHTML=a } card1(); let card2=()=&...",
+    "Tags": "javascript html",
+    "User": [
+      "muhammad areeb",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "33",
+    "Question": "Why it is saying Uncaught TypeError: Cannot read property '0' of undefined [duplicate]",
+    "Summary": "I am getting data from json. This code is working well but throwing an error. My code $.get(linkofjson, function(data, status) { var res = \"\"; for (var i = 0; i <= 500; i++) { ...",
+    "Tags": "javascript jquery arrays for-loop",
+    "User": [
+      "E - Gyan",
+      "1122 bronze badges"
+    ]
+  }
+]

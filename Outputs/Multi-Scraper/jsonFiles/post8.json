@@ -1,0 +1,602 @@
+[
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "23",
+    "Question": "How to add image to quiz results based on results",
+    "Summary": "Trying to display an image based on my character quiz result but I am having issues with the logic behind it. Here a snippet of the code on JSFiddle: https://jsfiddle.net/Daryl13/p047yx91/ if (result =...",
+    "Tags": "javascript html",
+    "User": [
+      "Daryl Howai",
+      "2733 bronze badges"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "2",
+    "Views": "53",
+    "Question": "I am trying to understand this piece of Netsted objects in Javascript",
+    "Summary": "I am following a tutorial on YouTube about building projects in Javascript. And this piece of code is supposed to create a Rock, Paper & Scissors game. I understand most part of this code. But my ...",
+    "Tags": "javascript arrays function object",
+    "User": [
+      "StaFa",
+      "2144 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "12",
+    "Question": "Jest unit test case fail randomly",
+    "Summary": "Using jest with react testing library. just need to cover the couple of unit test here like tab sequence. This is fail randomly. Using react-testing-libray jest react redux Here is the the full code....",
+    "Tags": "javascript reactjs unit-testing redux jestjs",
+    "User": [
+      "underscore",
+      "5,97755 gold badges3030 silver badges7272 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "35",
+    "Question": "How to run frontend and backend on same port , if I am using vanilla js on frontend and node js on backend?",
+    "Summary": "How to run frontend and backend on same port in rest Apis , if I am using vanilla js on frontend and node js on backend? I found a lot of stuff regarding how to do this for react but nothing about ...",
+    "Tags": "javascript html node.js express httpserver",
+    "User": [
+      "BHANU ARORA",
+      "2544 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "Uncaught TypeError: this.markVisited is not a function [duplicate]",
+    "Summary": "can anyone help on this? I googled it but none of the solutions offered there helped. Consider the following code. It has an error when the markVisited is invoked. I have added a comment there. Also, ...",
+    "Tags": "javascript",
+    "User": [
+      "ShaderOX",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "37",
+    "Question": "get text within a dom element but not it's child elements",
+    "Summary": "I am trying to extract the author names from https://theartofliving.com/ultimate-learning-how-to-learn-reading-list/ I just need to run the script in the DevTools console and get the output. Please ...",
+    "Tags": "javascript",
+    "User": [
+      "blueray",
+      "6,52822 gold badges2727 silver badges4848 bronze badges"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "1answer",
+    "Views": "29",
+    "Question": "How to get the text written in text input",
+    "Summary": "I'm trying to grab the txt I wrote inside the my <input type=\"text\"> but it is returning undefined , I tried many ways such as .text() or .html() or e.target.value , all of them ...",
+    "Tags": "javascript html jquery",
+    "User": [
+      "filpthetablescrewyouall",
+      "1544 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "21",
+    "Question": "How to save latitude, longitude in my db. Using leaflet map",
+    "Summary": "I am building an app that uses leaflet map and mongoDB as my db. I want the user to be able to click on a place on the map and edit the details on the marker and then i want to save these places on my ...",
+    "Tags": "javascript mongodb leaflet",
+    "User": [
+      "tokaskol",
+      "1111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "0",
+    "Views": "21",
+    "Question": "If passed string doesnt end with a number it returns to string with null how do conditionally check if end is a number to just add 001 [duplicate]",
+    "Summary": "Your job is to write a function which increments a string, to create a new string. If the string already ends with a number, the number should be incremented by 1. If the string does not end with a ...",
+    "Tags": "javascript regex string",
+    "User": [
+      "Ryan Hartley",
+      "1322 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "6",
+    "Question": "Google Spread Sheet with function deleteItem",
+    "Summary": "I have trouble with my code Javascript. I pass value from Android App to this Js but it notify \"The script completed but did not return any value\". My code javascript function deleteItem(e){ ...",
+    "Tags": "javascript android script",
+    "User": [
+      "Ly V\u00f5",
+      "911 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "30",
+    "Question": "Embedded Objects to Arrays",
+    "Summary": "I was given an existing project where the data structure is below: [ { \"key\": \"username\", \"value\": \"\" }, { \"key\": &...",
+    "Tags": "javascript jquery arrays json",
+    "User": [
+      "user581733",
+      "37822 gold badges55 silver badges1414 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "38",
+    "Question": "Find a way out of the maze",
+    "Summary": "II need to write an algorithm to find a way out of the maze, which is 2-dimensional array. I played with the code, but can't it fully understand how should I mark in the code the finish line when no ...",
+    "Tags": "javascript",
+    "User": [
+      "Valerii",
+      "4377 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "12",
+    "Question": "why is regEx returning quote substring escaped wtih \\ [closed]",
+    "Summary": "when i'm matching a string with regEx that matches a substring enclosed with quote, it always returns the matched substring escaped with backslash. I tried string created with template literals or ...",
+    "Tags": "javascript regex",
+    "User": [
+      "mes shahdat",
+      "133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "15",
+    "Question": "how to build multiple modal for video with javascript in one page without attribute and checkbox",
+    "Summary": "I need to put several modals for one of my pages. When the user clicks the button, the modal must be opened and a video is displayed in it. This code is for placing only one modal on one page. But I ...",
+    "Tags": "javascript html jquery css video",
+    "User": [
+      "haniye",
+      "3144 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "22",
+    "Question": "Knex.js with Postgres returns boolean fields as \u201c0\u201d or \u201c1\u201d instead of booleans",
+    "Summary": "When I query with Knex.js a Postgres database boolean fields it returns the result as \"0\" or \"1\" (as strings) instead of the boolean values true and false. Is there a way to make ...",
+    "Tags": "javascript postgresql knex.js",
+    "User": [
+      "The Cubear Guy",
+      "23322 silver badges1212 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "21",
+    "Question": "Update values in array using lib in react-native",
+    "Summary": "I want to update values in my array using this lib My code so far: import React from \"react\"; import { StyleSheet, View, Button, Text } from \"react-native\"; import update from &...",
+    "Tags": "javascript react-native",
+    "User": [
+      "Nikola Marinov",
+      "15177 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "24",
+    "Question": "how to make a video preview with canvas?",
+    "Summary": "this is my first question here! im trying to make a website that show videos that i make and i want my viewers can see a preview of video when they hover mouse on the a element or element . i just ...",
+    "Tags": "javascript html canvas html5-canvas video-thumbnails",
+    "User": [
+      "Ram",
+      "1"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "2",
+    "Views": "32",
+    "Question": "I need each of the first sentences from these JavaScript arrays to display correctly with the day of the week properly included within them",
+    "Summary": "I have these javascripts to randomly get 2 different sentences, each one from a different set of arrays, to get a different message each new time I click on its printed text (to avoid spam) when ...",
+    "Tags": "javascript html jquery",
+    "User": [
+      "rx65m",
+      "7155 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "56",
+    "Question": "Implement a single iteration in Javascript",
+    "Summary": "So I came into this online test question, something like this : Write a function to check if the given value is a single digit. If it is not, add up all the numbers until it becomes a single digit. ...",
+    "Tags": "javascript iteration",
+    "User": [
+      "Dragon",
+      "4955 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "2",
+    "Views": "31",
+    "Question": "Reactjs, Passing data(id) from one component to another in order to download a song",
+    "Summary": "Hi I am new to Reactjs and I'm practicing on a project of a music website. But there is an issue which I'm stuck with. Well there is a song page where I should show some songCards. import React from '...",
+    "Tags": "javascript reactjs",
+    "User": [
+      "Parastoo",
+      "1111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "1answer",
+    "Views": "27",
+    "Question": "Passing data from Main layout to subpages in Nextjs",
+    "Summary": "I'm trying to do something like this; I have a file called /components/master_layout.js and it has the following content: import useUser from \"../data/use-user\"; function MasterLayout({ ...",
+    "Tags": "javascript reactjs next.js",
+    "User": [
+      "EarMoke",
+      "1944 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "25",
+    "Question": "New window with a cross",
+    "Summary": "On the website https://www.citilink.ru/, when you click on the Product catalog button, a window appears How (with the help of what technologies and feature) can you achieve the opening of a drop-down ...",
+    "Tags": "javascript html css web layout",
+    "User": [
+      "newbie seeker",
+      "1922 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "17",
+    "Question": "Data fetching in NextJS in different scenarios",
+    "Summary": "currently I'm building a NextJS based website where I need to fetch data from a REST API. There are 2 pages where I need to fetch data, I'm detailing them below. Search Page: Here users can search ...",
+    "Tags": "javascript reactjs next.js",
+    "User": [
+      "Abhishek Chatterjee",
+      "17211 silver badge1111 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "2",
+    "Views": "22",
+    "Question": "How to obtain values of variables passed to ejs in a linked javascript file in electron",
+    "Summary": "I am trying to build an electron app. An EJS file has variable values passed to it from the main process. I want to obtain these variables in the javascript file linked to renderer process. I tried ...",
+    "Tags": "javascript node.js electron ejs",
+    "User": [
+      "Sinadin Shan",
+      "533 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "23",
+    "Question": "Waiting for data from two documents befre making a POST request",
+    "Summary": "I have a JSON file that I load into my node.js/ express.js app that looks like this : { \"DataSourceID_1\":\"PWCTRX2\", \"DataSourceID_2\":\"KALATM1\", .......",
+    "Tags": "javascript node.js mongodb express mongoose",
+    "User": [
+      "Max",
+      "32222 silver badges1313 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "17",
+    "Question": "Run a function when no actions from user for specified time",
+    "Summary": "I\u2019ve got a function that delays javascript load to act on user interaction. Here\u2019s the javascript function: class LazyLoadScripts { constructor(e) { this.triggerEvents = e, this.eventOptions = ...",
+    "Tags": "javascript",
+    "User": [
+      "akarim",
+      "2111 silver badge44 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-4",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "Can't select an element of youtube [closed]",
+    "Summary": "Hi I am not that good with web programming. I am working on a browser extension for youtube. The problem is I can't select an element by using querySelector or getElementById. Any help would be much ...",
+    "Tags": "javascript html ajax youtube",
+    "User": [
+      "mafia sasi",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "React-native update values of array using hooks [duplicate]",
+    "Summary": "I am new to react-native and i have problems with updating array elements ! I want to update values and then show it on the display. Here is my code so far : import React from \"react\"; ...",
+    "Tags": "javascript react-native",
+    "User": [
+      "Nikola Marinov",
+      "15177 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "18",
+    "Question": "Module parse failed: Unexpected character '@' (11:0) - Angular 7",
+    "Summary": "One of my friend facing below error immediately after the compilation. I've gone through all SO solution but those are related to webpack.config.ts. But here in our project there no such file except ...",
+    "Tags": "javascript angular typescript angular7",
+    "User": [
+      "Mr. Learner",
+      "76511 gold badge88 silver badges3434 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "45",
+    "Question": "Javascript HTML how to draw an image on a canvas every frame",
+    "Summary": "So, I'm trying to make a browser game, and Right now, I'm figuring out how to display an image via javascript. I've read a number of posts related to the subject, and about how image loading is ...",
+    "Tags": "javascript html",
+    "User": [
+      "Globin347",
+      "15799 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "3",
+    "Views": "48",
+    "Question": "Solving non-square system of linear equations in Javascript",
+    "Summary": "I have a system of resistors, something like this: Resistor schematic I made a website which renders diagrams like this one (not this one exactly). The user can change resistance of each resistor. I ...",
+    "Tags": "javascript math matrix physics",
+    "User": [
+      "Juraj Petr\u00e1\u0161",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "0",
+    "Views": "17",
+    "Question": "is there a software that copy and reload client source files to external server, automatically, after save editing [closed]",
+    "Summary": "i deployed a web application on the application server (web), i need to edit some js and css and then: edit my js or css files with my favorite editor I explode the war file in a directory copy js / ...",
+    "Tags": "javascript css visual-studio-code jboss frontend",
+    "User": [
+      "robyp7",
+      "41322 gold badges66 silver badges2121 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "33",
+    "Question": "How to fetch messages until a specific date?",
+    "Summary": "How would one fetch messages from text channel beginning with the latest/newest message until a specific date. For example until the date two days ago. The desired result is having a function that ...",
+    "Tags": "javascript discord.js",
+    "User": [
+      "Skulaurun Mrusal",
+      "15922 silver badges1515 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "7",
+    "Question": "Html2canvas base 64 graph background black",
+    "Summary": "I tried to convert graph in base 64 with html2canvas. My code component.html. <div *ngIf=\"sem_chart\" style=\"max-width: 100vw; padding-bottom: 20px; margin-bottom: 50px; background: ...",
+    "Tags": "javascript angular html2canvas pdfmake",
+    "User": [
+      "Juna",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-4",
+    "Answers": "0",
+    "Views": "42",
+    "Question": "Hiding a div based on total price on product page [closed]",
+    "Summary": "On our product page, we have a number of add-on items and product bundles available. I have a div called .finance, which is positioned underneath our add to cart button, and I'd like it to not display ...",
+    "Tags": "javascript jquery woocommerce",
+    "User": [
+      "David Cooper",
+      "344 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "0",
+    "Views": "18",
+    "Question": "Invalid useAuthState() hook call",
+    "Summary": "I am creating a social media app that have a user object. So, I defined my firebase config and initialized it. I want to create dashboard component but there is an error called Invalid hook call. ...",
+    "Tags": "javascript reactjs firebase mern",
+    "User": [
+      "H\u00e9nry",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "0",
+    "Views": "18",
+    "Question": "Piece of advice about how to create this type of carousel [closed]",
+    "Summary": "I'm trying to create the carousel that appears at www.gog.com . I have tried to think a bit about how should I did something like this: Have a div containing all the slides with a position:relative ...",
+    "Tags": "javascript html css reactjs carousel",
+    "User": [
+      "Notbad",
+      "4,80066 gold badges3838 silver badges7979 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "1answer",
+    "Views": "27",
+    "Question": "How can I set a timeout for my loading webpage?",
+    "Summary": "I have a problem with my loading webpage. I want to hide this loading page after 5 seconds, but I'm confused. That's my code: And I must say I'm Beginner. setTimeout(function(){ jQuery('....",
+    "Tags": "javascript html jquery css loading",
+    "User": [
+      "Ali Zerehsaz",
+      "1"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "Js Button Click Alternative",
+    "Summary": "I'm building a bot with javascript. I follow my accounts on a platform. I follow by clicking, but the platform understands this and deletes the follower. I'm looking for an alternative way to button ...",
+    "Tags": "javascript buttonclick alt",
+    "User": [
+      "Sevcan G\u00fcrb\u00fcz",
+      "2144 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "18",
+    "Question": "How to avoid node:12044 Error : data and salt arguments required?",
+    "Summary": "I tried out few tricks to avoid this error but without luck- (node:12044) UnhandledPromiseRejectionWarning: Error: data and salt arguments required at hash (D:\\Coding_Challenge\\Challenge-solution\\...",
+    "Tags": "javascript mysql node.js",
+    "User": [
+      "Jeet",
+      "8311 silver badge1010 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "23",
+    "Question": "ReactJS Can't move footer to the bottom in Sidebar with justify content space-between",
+    "Summary": "Trying to move to the bottom of the but Footer stick to the top try to add justify-content: space-between / align-self: flex-end and it isn't working What I expected What I get Trying to inspect ...",
+    "Tags": "javascript reactjs",
+    "User": [
+      "Yo Udomkarn",
+      "3344 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "How do I hide a tag after selecting it in TiddlyWiki?",
+    "Summary": "To prevent unnecessary tags from interfering on the screen, I want to hide them from the TagPickerTagTemplate selection list. This can be done? example Or at least hide tags after clicking? Something ...",
+    "Tags": "javascript css tiddlywiki tiddlywiki5",
+    "User": [
+      "mike2003",
+      "1122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "10",
+    "Question": "How to pass a param and get that param with a nested Stack Navigator (make tabbar dissapear on scrolling)",
+    "Summary": "Maybe you can help me... I'm trying to make my tabbar dissapear on scrolling. For this I have a onScroll method that tells if I'm going down or up. const offset = useRef(0); const onScroll = (event) =&...",
+    "Tags": "javascript react-native react-native-navigation",
+    "User": [
+      "Saiykoh",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "26",
+    "Question": "Import image to a component from React project",
+    "Summary": "I'm building an app with React and Typescript. I'm retrieving data using a free API. I'm trying to use a default image for the objects that do not have them. This is the structure of my project: In ...",
+    "Tags": "javascript reactjs typescript api asynchronous",
+    "User": [
+      "grubbyGerbil",
+      "2944 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "18",
+    "Question": "Array buffer allocation failed JS",
+    "Summary": "I have encountered a strange error during building my nextJs project Here is the error details This error happened when I navigate between pages. Any Idea to solve this strange error ? NOTE My Laptop ...",
+    "Tags": "javascript node.js reactjs next.js",
+    "User": [
+      "Aziz",
+      "3755 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "36",
+    "Question": "Populate a div with ajax response from server",
+    "Summary": "I am trying to populate five div's with the content of an Ajax response. Some far I have tried the following: On the line marked \"POPULATION LINE\" I have tried just on the first div, if I ...",
+    "Tags": "javascript php jquery json",
+    "User": [
+      "DCJones",
+      "2,22344 gold badges2222 silver badges4040 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "3",
+    "Views": "34",
+    "Question": "How can I create a struct in JavaScript and sort it afterwards?",
+    "Summary": "In C#, I create a struct and I use LINQ to sort MyList. public struct MyContainer { public string Name; public string Firstname; public int Firstscore; public int Secondscore; public ...",
+    "Tags": "javascript c#",
+    "User": [
+      "Bill_Johnson77",
+      "2133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "45",
+    "Question": "Filter an array from another array of elements and return specific positions",
+    "Summary": "I'm finally learning better methods for my JS. I'm trying to find a way to go faster than I do so far : In my code, I have two arrays : one with unique keys in first position one with those keys in ...",
+    "Tags": "javascript arrays google-apps-script google-sheets",
+    "User": [
+      "Cedric",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "28",
+    "Question": "npm run build does not work while npm run dev does , NuxtJS",
+    "Summary": "I'm trying to export the dist folder from a nuxtJs project i'v been working on . everything works fine when i run the project on my local machine with the command npm run dev but when i try to run npm ...",
+    "Tags": "javascript vue.js nuxt.js",
+    "User": [
+      "Adnane Kadri",
+      "1133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "How do I allow user setup a custom domain while hosted on my server?",
+    "Summary": "Currently, I am building a simple MVP app, on Firebase with Next.js frontend. For example. let's say my domain is yourfavouriteblog.com. I want to provide 2 tiers of service where one is I will add a ...",
+    "Tags": "javascript firebase next.js hosting vercel",
+    "User": [
+      "Wei Chun",
+      "3133 bronze badges"
+    ]
+  }
+]

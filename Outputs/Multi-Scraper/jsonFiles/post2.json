@@ -1,0 +1,602 @@
+[
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "5",
+    "Question": "Rollup add dependency in externals but keep css imports",
+    "Summary": "I have a problem with rollup externals. I import react-datepicker in my code and rollup excludes that through externals which is good. But since I import its css also in my component using \"...",
+    "Tags": "javascript node-modules commonjs rollupjs",
+    "User": [
+      "Manish Jangir",
+      "4,84444 gold badges3030 silver badges6262 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "8",
+    "Question": "React js data fetching. Error: Element type is invalid: expected a string or a class/function (for composite components) but got: object",
+    "Summary": "I am trying to fetch data with axios from express js but showing this error. Please check my code. ........................................................................................................",
+    "Tags": "javascript reactjs express",
+    "User": [
+      "Sunny",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "29",
+    "Question": "Can't npm install local dependency",
+    "Summary": "I've been using npm install react-financial-charts successfully. However, I want to include this package locally instead (for reasons), so I checked out the master branch of react-financial-charts ...",
+    "Tags": "javascript reactjs typescript npm webpack",
+    "User": [
+      "Jase",
+      "85711 gold badge77 silver badges2525 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "13",
+    "Question": "change .joinedAt format in discord.js",
+    "Summary": "I'm making a user info command, and i want it to say when a user joined, it kinda works but i want to change the time format, this is the code that gets the join data: message.member.joinedAt i tried ...",
+    "Tags": "javascript node.js discord discord.js",
+    "User": [
+      "Tom The Italian BBQ",
+      "3555 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "4",
+    "Question": "Mongodb Atlas Implementing Searching/Facets Features together - Javascript",
+    "Summary": "My Question: How to implement Both Features: Full text-search AND Faceting/MultipleFilterTogether using $match ? Url has to be Like this: (After Implementing both features) \"http://localhost:...",
+    "Tags": "javascript mongodb search aggregation-framework faceted-search",
+    "User": [
+      "Divyanshu Sah",
+      "3911 silver badge66 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "9",
+    "Question": "sequelize.import is not a function error in sequelize",
+    "Summary": "I get TypeError: sequelize.import is not a function error while running models\\index.js file using sequelize for postgresql in node.js ^ TypeError: sequelize.import ...",
+    "Tags": "javascript node.js postgresql sequelize.js",
+    "User": [
+      "MobiusT",
+      "2144 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "18",
+    "Question": "changing an input through another input",
+    "Summary": "<!--***********************************************************************************************************************************--> <!-- ZONA DE SCRIPTS --><!-- ZONA DE ...",
+    "Tags": "javascript html css",
+    "User": [
+      "ricarte matos",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "13",
+    "Question": "React: how to convert a react class with states to react function with useState hook?",
+    "Summary": "I am new to react so I don't know much of the react functionalities so can you please help how to convert a react class with states to react function with the useState hook? the code is React class is ...",
+    "Tags": "javascript reactjs react-hooks use-state",
+    "User": [
+      "Abhishek Singh",
+      "52911 gold badge55 silver badges1414 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "19",
+    "Question": "Question relating \u201cObject Spread Operator\u201d , expected outcome from chr0me console is missing.?",
+    "Summary": "1.The image of output from edge browser 2.Click to view the image of chrome console The image shows the output from the chrome console. I expect the outcome from the function, but it returned only ...",
+    "Tags": "javascript ecmascript-2018",
+    "User": [
+      "Adwaith.Rajesh",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "0",
+    "Views": "26",
+    "Question": "What the following method in Javascript really does?",
+    "Summary": "guys can you please explain me stap by step what the code below does? i am not sure i fully undestand it. {Array.(rating).fill().map((_,i)=>( <p > \ud83d\ude1c <p >))}",
+    "Tags": "javascript",
+    "User": [
+      "Sarandis",
+      "711 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "17",
+    "Question": "How to take input at runtime in JavaScript",
+    "Summary": "I want to take input at runtime in Visual Studio Code. What should I use instead of window.prompt() Here is the main code function arrayAction(A, N) { var temp = [] var r = window.prompt(...",
+    "Tags": "javascript arrays",
+    "User": [
+      "mrhrifat",
+      "2166 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "28",
+    "Question": "How to get autofiiled input value?",
+    "Summary": "I need to get autofiiled input value, so i can insert it back in, through document.getElementById.value on page load. But i cant get the autofilled value ,its Empty. How do i get it? <input ...",
+    "Tags": "javascript html",
+    "User": [
+      "Shahrukh Tramboo",
+      "2155 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "3",
+    "Views": "24",
+    "Question": "CSS property in jQuery",
+    "Summary": "There are the following pieces of code $('.catalogbutton').on('click', function(event) { console.log('Before'); $('#dropdownwindow').style.marginRight = \"40%\"; $('#dropdownwindow').style....",
+    "Tags": "javascript html css web layout",
+    "User": [
+      "newbie seeker",
+      "1922 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "14",
+    "Question": "History backward not working properly with React Router and server side pages",
+    "Summary": "I'm converting a classic app (page rendered server-side only) into a client app (front app in Typescript + JSON API server). The app is quite consequent and I'm converting it page per page. The new ...",
+    "Tags": "javascript reactjs react-router",
+    "User": [
+      "Vinorcola",
+      "133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "26",
+    "Question": "how to avoid duplicate key error collection in mongodb",
+    "Summary": "i want to build a cart for my website, this is the schema for the cart: const productSchema = require(\"./product\")[1]; const cartItemSchema = new Schema<CartItem>( { product: ...",
+    "Tags": "javascript node.js mongodb mongoose mongoose-schema",
+    "User": [
+      "Sameh Hassoun",
+      "2111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "14",
+    "Question": "Why React JS Link is rendering variable as a String within URL",
+    "Summary": "I am using React Link to add 'Edit Student' page link in my table. However, without any apparent errors, the variable is not getting passed along the URL. Instead, the URL is being rendered as a ...",
+    "Tags": "javascript reactjs react-router",
+    "User": [
+      "Muhammad Abbas",
+      "511 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "15",
+    "Question": "React 17.0.2 Module not found: Can't resolve",
+    "Summary": "I have 2 files - 1 component and 1 service file. Component is trying to import services but throw following error: Failed to compile. ./src/services/index.js Module not found: Can't resolve '/Users/...",
+    "Tags": "javascript reactjs",
+    "User": [
+      "Andon Mitev",
+      "69811 gold badge33 silver badges1515 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "23",
+    "Question": "Get user banner in discord.js",
+    "Summary": "Is there any way to obtain user banner on discord using discord.js? User banner is new feature, so I am not sure if there is any way so far. I didn't find anything in docs. Eg. server banner is ...",
+    "Tags": "javascript discord discord.js",
+    "User": [
+      "Michal",
+      "1,08166 silver badges2222 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "10",
+    "Question": "How to create a material design select with a floating label",
+    "Summary": "I found this snippet on stackoverflow https://stackoverflow.com/a/37366105/16364123 but , I need to add a floating label to the menu. It should be like this. Any Ideas are appreciated.",
+    "Tags": "javascript html css material-design floating-labels",
+    "User": [
+      "yijimastaa",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "14",
+    "Question": "Uncaught SyntaxError: Invalid or unexpected token in main.js",
+    "Summary": "We have deployed an angular SSR application using universal/express-engine in IIS in a sub domain. When we try to access the application, we have an intermittent issue. The files are loaded only ...",
+    "Tags": "javascript angular webpack iis angular-universal",
+    "User": [
+      "Ragul Parani",
+      "54366 silver badges1919 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "17",
+    "Question": "Error:Cannot read property 'map' of undefined REACT JS",
+    "Summary": "When I delete an item, it displays cannot read notes, property of undefined. Otherwise, the map function is working correctly. I think there is some error in the filter function. import React, { ...",
+    "Tags": "javascript arrays reactjs dictionary filter",
+    "User": [
+      "Yashvardhan Jain",
+      "1322 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "19",
+    "Question": "Why do the CSS styles disappear when trying to change the className in react js?",
+    "Summary": "I'm building a simple react app, and in that I try to change the name of a div using the statement - <div className={'changeTab ' + (page.login ? 'leftSide' : 'rightSide')} id=\"tab\" >&...",
+    "Tags": "javascript html css reactjs",
+    "User": [
+      "Akhouri Soumya Prakash",
+      "1333 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "10",
+    "Question": "Bottom sheet modal cannot run in Expo",
+    "Summary": "I am trying to use this lib with the following code : import React, { useCallback, useRef, useMemo } from \"react\"; import { StyleSheet, View, Text, Button } from \"react-native\"; ...",
+    "Tags": "javascript react-native",
+    "User": [
+      "Nikola Marinov",
+      "15177 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "1answer",
+    "Views": "25",
+    "Question": "When sending a variable it gives me null in ajax/js/php [duplicate]",
+    "Summary": "I want to send the value of the select to another page every time it is modified. (in real time) I tried to do it with js / ajax but on the other page it appears null when displaying the value.I never ...",
+    "Tags": "javascript php ajax",
+    "User": [
+      "Adrian Lopez",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "21",
+    "Question": "How to use nested optgroup reactjs",
+    "Summary": "I have this nested optgroup: <select> <optgroup label=\"A\"> <optgroup label=\"B\"> <option>C</option> <option>D</option> <...",
+    "Tags": "javascript reactjs",
+    "User": [
+      "S.M_Emamian",
+      "14.7k2424 gold badges101101 silver badges198198 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "17",
+    "Question": "Is it possible to do image manipulation in javascipt without buffering the output into memory",
+    "Summary": "So i have 2 images, both are remote images hosted online for example https://example.com/image.png, these are not local files, how can i layer image 2 over image 1 using javascript without having to ...",
+    "Tags": "javascript node.js image",
+    "User": [
+      "Keem ROH",
+      "911 bronze badge"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "1answer",
+    "Views": "23",
+    "Question": "How does the Google Translate extension make its icon image visible when text is highlighted?",
+    "Summary": "I am trying to figure out how to make an icon image appear when text is selected like how the Google Translate extension does it. I've tried various combinations of \"icon image appear\", &...",
+    "Tags": "javascript browser-extension",
+    "User": [
+      "Anh",
+      "3311 silver badge66 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "Can I put a default between cases? - MDN Code Snippet",
+    "Summary": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch#can_i_put_a_default_between_cases var foo = 5; switch (foo) { case 2: console.log(2); break; // it ...",
+    "Tags": "javascript switch-statement",
+    "User": [
+      "Jay",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "14",
+    "Question": "How to Save user Activity in angular App?",
+    "Summary": "I want to get and save user interaction with angular app, and app interactions with the APIs the add this log to a file.",
+    "Tags": "javascript html angularjs angular web",
+    "User": [
+      "Ahmed Nasser",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "34",
+    "Question": "What does .$ mean in javascript",
+    "Summary": "I was in the console trying something when i saw that the .$ can be used along with the document object to access the elements. But i don't know what it actually does. example :-",
+    "Tags": "javascript",
+    "User": [
+      "Saroj regmi",
+      "7288 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "20",
+    "Question": "How do I make my cards self-contained while making the code scalable if I needed to add more cards?",
+    "Summary": "https://lolticus.github.io/duplicate-Article-Card-Component/ <= Github Website https://github.com/lolticus/duplicate-Article-Card-Component <= Github Respository So this is a challenge from ...",
+    "Tags": "javascript",
+    "User": [
+      "Kam Joshua",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "12",
+    "Question": "Avoid onbeforeunload in location.href",
+    "Summary": "I have the code below which asks for confirmation when a user tries to reload the page. It works fine window.onbeforeunload = function(event) { return confirm('Confirm refresh'); }; In another ...",
+    "Tags": "javascript jquery",
+    "User": [
+      "Ujjawal Bhandari",
+      "71011 gold badge44 silver badges1111 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "8",
+    "Question": "stuck at \u201cUncaught TypeError: ni.addEventListener is not a function\u201d",
+    "Summary": "stuck at \"Uncaught TypeError: ni.addEventListener is not a function\" var ni = document.getElementsByClassName(\"navigation-item\"); ni.addEventListener(\"mouseover\", ...",
+    "Tags": "javascript gsap",
+    "User": [
+      "Chowdhury Joy",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "21",
+    "Question": "Remove event listener after resizing to smaller screen",
+    "Summary": "I only want the event listener for scrolling to be activated when the screen size is larger than 1264 pixels. The event listener is activated when my content size starts off larger than 1264 pixels ...",
+    "Tags": "javascript",
+    "User": [
+      "supmethods",
+      "33733 silver badges1212 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "Python Flask JS XMLHttpRequest getting 404 not found",
+    "Summary": "i'm still new to programming and i come across this problem. I tried to look for solution but havent found any yet. Hence im posting my question here: The idea is pretty straightforward, so I want to ...",
+    "Tags": "javascript python html ajax flask",
+    "User": [
+      "linnn",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "How to design my Custom Blogger Template in Google BlogSpot",
+    "Summary": "I want to create a Google BlogSpot Template from Scratch Not getting how to create it , and I Don't see any video in YouTube as well how to create such Template from Scratch , No Udemy course also ...",
+    "Tags": "javascript html css blogger blogs",
+    "User": [
+      "rixeh46662",
+      "333 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "2",
+    "Views": "37",
+    "Question": "With a UNCHECKED checkbox, how to filter out NSFW tagged divs to be hidden at all times but when checked ON, to follow the visibility rules?",
+    "Summary": "This question is based on this Question/Answer: Filter accurately with BOTH checkboxes AND dropdown menus at the same time Hi! (NOTE, the simplified question and code is in the codepen or the snippet ...",
+    "Tags": "javascript html jquery css",
+    "User": [
+      "Manu J\u00e4rvinen",
+      "12155 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "17",
+    "Question": "javascript filter function - callback function issue [duplicate]",
+    "Summary": "below is javascript code with filter function. when using below code, it works perfectly- const words = ['spray', 'limit', 'elite', 'exuberant', 'destruction', 'present']; const result = words.filter(...",
+    "Tags": "javascript arrays string filter callback",
+    "User": [
+      "ashok kumar",
+      "3944 bronze badges"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "0",
+    "Views": "19",
+    "Question": "Vue3 Disable Vue DevTool Extension in production - Webpack",
+    "Summary": "I have a vue3 application and I use webpack to build. I run webpack with NODE_ENV=production webpack --mode=production I have also added this before I mount my Vue3 app, app.config.devtools = false; ...",
+    "Tags": "javascript vue.js webpack vuejs3 vue-devtools",
+    "User": [
+      "John",
+      "4344 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "14",
+    "Question": "How to write a regex that only allows `[a-z0-9]` unique characters? [duplicate]",
+    "Summary": "Valid case: abc123 Invalid case: abca123 (a is repeated) The closest I've got from this answer is /(?=^[A-Za-z0-9]+$)(.)+.*\\1.*/, but it is the opposite of what I want, it returns true if there're ...",
+    "Tags": "javascript regex regex-lookarounds regex-group regex-negation",
+    "User": [
+      "Wenfang Du",
+      "2,31433 gold badges1616 silver badges3939 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "12",
+    "Question": "Would using export const prevent tree-shaking from occuring?",
+    "Summary": "I see two code styles for exporting functions export const foo = () => {} export function foo() { } When it comes to tree shaking Would the code using method 1 be eliminated?",
+    "Tags": "javascript webpack optimization",
+    "User": [
+      "Archimedes Trajano",
+      "23.4k1010 gold badges114114 silver badges160160 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "48",
+    "Question": "Random Number doesn't change in for loop",
+    "Summary": "I have a for loop that draws lines in a certain direction. In the for loop, I want to change the color of the line using random numbers. But for some reason it doesn't work. Here is the code: for (var ...",
+    "Tags": "javascript code.org",
+    "User": [
+      "Zues",
+      "3911 silver badge66 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "24",
+    "Question": "JavaScript replace works in console, but not on the website",
+    "Summary": "I've been trying to create a list of tags and separate them using commas. I'm using Webflow and sadly it's not possible in their cms. I thought of a workaround where I would replace the commas with ...",
+    "Tags": "javascript replace console.log",
+    "User": [
+      "Martin Besenyi",
+      "1"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "11",
+    "Question": "How do I import Three.js OutlinePass jsm correctly?",
+    "Summary": "I'm moving from using the plain Javascript Threejs to using the node version, and at the very start I'm already stuck. OrbitControls was somehow fine, but when I import any postprocessing, I keep ...",
+    "Tags": "javascript three.js",
+    "User": [
+      "DNAniel213",
+      "11022 silver badges1212 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "29",
+    "Question": "How to display alert message on submit for ajax?",
+    "Summary": "I'm trying to display an alert message once a form is submitted. $('#submitForm').on('click' , function(){ var markers = { \"username\": $('#username').val(...",
+    "Tags": "javascript jquery json ajax",
+    "User": [
+      "Thatt",
+      "3177 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "19",
+    "Question": "How to pass array length to another component (from child to parent component) in vue.js?",
+    "Summary": "I have two components Dashboard.vue(parent) and DisplayBooks.vue(child). inside child component i have one array addedBooks:[] it should be incremented when user clicks on ADD TO BAG button and ...",
+    "Tags": "javascript vue.js vuejs2",
+    "User": [
+      "Devops Training",
+      "11477 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "multer issue with node js if i delete files and then again try to upload file",
+    "Summary": "Iam making a website on which user can upload the documents and that gets stored on my server. I am using multer for it. User can pick multiple files and I write a loop in javascript code which ...",
+    "Tags": "javascript node.js multer",
+    "User": [
+      "lotus airtel300",
+      "1144 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "16",
+    "Question": "How can I make 2 lines options in select menu in react.js?",
+    "Summary": "I am wokring on a react.js app and I want create a dropdown menu with each option consisting of 2 lines,one heading and one subheading.How can I do this? Right now I just have this code: <select ...",
+    "Tags": "javascript html reactjs drop-down-menu material-ui",
+    "User": [
+      "rudeTool",
+      "16177 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "29",
+    "Question": "SVG file not loading on navbar - unsure as what the cause is. (HTML,CSS,BOOTSTRAP, JS, SVG)",
+    "Summary": "I'll briefly explain what the issue is, so I'm working on a Bootstrap website, I'm trying to use a logo on the navigation bar however it doesn't seem to work apart from one logo. I've opened the SVG ...",
+    "Tags": "javascript html jquery css svg",
+    "User": [
+      "Marocafella",
+      "1122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "27",
+    "Question": "When useState update then map loop is not working in array inside of object in useState. React js",
+    "Summary": "When useState update then map loop is not working in array inside of object in useState. React js import { useState } from \"react\"; import React from \"react\"; function Check() { ...",
+    "Tags": "javascript arrays reactjs loops react-hooks",
+    "User": [
+      "Munny Reol",
+      "2744 bronze badges"
+    ]
+  }
+]

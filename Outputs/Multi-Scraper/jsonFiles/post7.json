@@ -1,0 +1,602 @@
+[
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "Confused about infinite while loop with match() and test() method Regex [duplicate]",
+    "Summary": "I have a question that\" it is the error or i missing something ?\" I'm learning Regex in javascript and got brower crash when trying to do this code: function myFunction() { var str = \"...",
+    "Tags": "javascript",
+    "User": [
+      "Ho\u00e0ng An L\u00ea",
+      "1"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "0",
+    "Views": "26",
+    "Question": "How i can send data the reponse the ajax to view please help me [closed]",
+    "Summary": "$.ajax({ type :\"POST\", url :\"/saveVendre\", data :$(this).serialize(), dataType: 'json', success:function (...",
+    "Tags": "javascript php jquery ajax laravel-8",
+    "User": [
+      "Bilal Mannouti",
+      "1"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "24",
+    "Question": "Vue - how can i call another method from a callback? [duplicate]",
+    "Summary": "I need to call the function get_data() once the function save_key() is done executing, the problem is that i get a Cannot read property 'get_data' of undefined error. I assume i'm getting it because ...",
+    "Tags": "javascript vue.js",
+    "User": [
+      "JayK23",
+      "8511 silver badge1414 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "3",
+    "Views": "34",
+    "Question": "Why doesn't the innerText of the span element changed while I use for of loop to modify the innerText?",
+    "Summary": "const colors = [\"green\", \"red\", \"rgba(133,122,200)\", \"#f15025\"]; const colorIdentifier = document.querySelector('.color'); const button = document.getElementById('btn'); for (let color of colors) { ...",
+    "Tags": "javascript html css loops dom",
+    "User": [
+      "Jeatz",
+      "144 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "31",
+    "Question": "Can't fetch local file",
+    "Summary": "It works when I fetch a tsv file remotely: // Works well fetch( `https://raw.githubusercontent.com/reactivemarkets/react-financial-charts/master/packages/stories/src/data/MINUTES.tsv`, ) .then(...",
+    "Tags": "javascript reactjs typescript",
+    "User": [
+      "Jase",
+      "85711 gold badge77 silver badges2525 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "2",
+    "Views": "24",
+    "Question": "javascript problem replacing string occurrence [duplicate]",
+    "Summary": "i have the following code in my html page and as you can see i am trying to replace the occurrence of \"state\" with \"item\" and \"number\" with \"count\" in the ...",
+    "Tags": "javascript",
+    "User": [
+      "AmineBinOthman",
+      "333 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "21",
+    "Question": "CSS overflow hidden issue on chrome when child has mix-blend-mode and animation",
+    "Summary": "I have an issue where the child element, with an animation, of a button with overflow: hidden does not correctly display on chrome but it works fine with firefox. I have tried every solution I found ...",
+    "Tags": "javascript html css",
+    "User": [
+      "Fyju",
+      "1"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "2",
+    "Views": "51",
+    "Question": "Importing Data In React",
+    "Summary": "I am trying to import data from a file dateUpdated.js into a Header.js file in React. I am getting an error TypeError: Object is not a function or its return value is not iterable, but I have seen it ...",
+    "Tags": "javascript reactjs",
+    "User": [
+      "Brian Smith",
+      "1133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "27",
+    "Question": "Flat array to tree Javascript",
+    "Summary": "Looking for a javascript or typescript solution to turn this array of sql data into a tree structure: Some other solutions I've tried set the id as a property in the expected array but not the key of ...",
+    "Tags": "javascript arrays tree",
+    "User": [
+      "potatojoj",
+      "1322 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "19",
+    "Question": "How to reset a select element so that the 'REQUIRED' attribute is prompted again?",
+    "Summary": "I have a select element (let's call it #select2) that I dynamically populate based on another select element (#select1). So basically, when the user selects an option in #select1 some options appear ...",
+    "Tags": "javascript html",
+    "User": [
+      "Kurka",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "17",
+    "Question": "Why can't I assign the value of property in this case?",
+    "Summary": "Here's my code: let obj = {}; obj.__proto__ = \"some value\"; console.log(obj.__proto__ == Object.prototype); Does it happen because of the set __proto__, which regulates the assignment ...",
+    "Tags": "javascript object prototype proto",
+    "User": [
+      "Heaven",
+      "2544 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "3",
+    "Views": "28",
+    "Question": ".Net-Core object property string(Month/Year) is dividing in JS",
+    "Summary": "I have an object @application.MonthandYear that I'm sending to javascript to create another element. However, in javascript, the outcome of the property is divided value. Example: 08/21(month and year)...",
+    "Tags": "javascript asp.net-mvc",
+    "User": [
+      "Robert",
+      "1533 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "0",
+    "Views": "16",
+    "Question": "I need to deploy a angular app in a namecheap hosting but I don't know [closed]",
+    "Summary": "How can I make a deployment of an angular application in a namecheap hosting from cpanel",
+    "Tags": "javascript angular deployment web-deployment namecheap",
+    "User": [
+      "David Angarita",
+      "733 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "18",
+    "Question": "node.js oauth-1.0a working for Twitter API v1.1 but not for v2",
+    "Summary": "I'm found this function to generate oauth-1.0a header: // auth.js const crypto = require(\"crypto\"); const OAuth1a = require(\"oauth-1.0a\"); function auth(request) { const oauth =...",
+    "Tags": "javascript node.js twitter twitter-oauth oauth-1.0a",
+    "User": [
+      "MauricioRobayo",
+      "1,7311717 silver badges2121 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "Routing not working using Gatsby - reach-router",
+    "Summary": "I'm trying to render a blog as a card then open it up as a page , but its proving to be difficult using Gatsby. I did the exact same thing fine with react using React router but it doesn't seem to be ...",
+    "Tags": "javascript reactjs gatsby contentful contentful-api",
+    "User": [
+      "Shuib Abdillahi",
+      "3544 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-4",
+    "Answers": "0",
+    "Views": "27",
+    "Question": "how to run python import on node js?",
+    "Summary": "Error: ModuleNotFoundError: No module named 'Adafruit_AMG88xx'!! This code is to connect node js to raspberry pi I want to run python file on js file This is \"raspberry_nodejsServer.js\" var ...",
+    "Tags": "javascript python mysql import raspberry-pi",
+    "User": [
+      "pjy0619",
+      "1"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "1answer",
+    "Views": "25",
+    "Question": "why adding items to array trough JQuery is different than adding it manually?",
+    "Summary": "this code is kinda working but I'm getting different output , like if I add items to array manually like let thearray = [\"Hello\",\"World]; it will show this on console log : (2)\u00a0[\"...",
+    "Tags": "javascript html jquery",
+    "User": [
+      "filpthetablescrewyouall",
+      "1544 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "10",
+    "Question": "Forcing a new paragraph element on new line with Markedjs",
+    "Summary": "I'm using markedjs and I don't really quite understand how to use the advanced configurations. I have a textarea where users can input text, and I want each new line to force a new p element (assuming ...",
+    "Tags": "javascript html format markdown javascript-marked",
+    "User": [
+      "supafiya",
+      "9511 silver badge88 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "13",
+    "Question": "How can I use regular expressions to add an onclick event to words of a text in React?",
+    "Summary": "I'm trying to use regular expressions to add an onclick event to all the words of a text in React. I have tried to do it in two different ways so far, but none of them worked. First I tried: return( ...",
+    "Tags": "javascript reactjs",
+    "User": [
+      "Adriano Lazzaretti",
+      "733 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "19",
+    "Question": "Why Vue <select v-model=\u201cnumber | string\u201d > both work?",
+    "Summary": "Please see this minimum example new Vue({ el: '#app', data() { return { valueIsString: '1', valueIsNumber: 1, } }, template: ` <div> <select v-model=\"...",
+    "Tags": "javascript vue.js vuejs2 vue-component",
+    "User": [
+      "Joseph Wang",
+      "2,07399 silver badges3737 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "ReactJS - library to detect crawler and bots [closed]",
+    "Summary": "I would like a library I can use in a react component ( I also use Next) which would detect if the current user is a crawler/bot. I would like something like this for instance: export default function ...",
+    "Tags": "javascript reactjs next.js",
+    "User": [
+      "Wonay",
+      "89199 silver badges2323 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "63",
+    "Question": "Inexplicable behavior of a for-loop after a reduce in Javascript function",
+    "Summary": "Problem: For-loop inside of a function is returning an inexplicable result (1st picture, highlighted in yellow on line 150) Same for-loop copy-pasted outside of the function returns the expected ...",
+    "Tags": "javascript algorithm for-loop recursion reduce",
+    "User": [
+      "Jae Ryu",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "Get [object Object] instead of real new element on the current markup",
+    "Summary": "I'm totally newbie...trying to make a study project. Have a page with 6 initialed cards. Card consist of picture and text, under this picture. Have a button, using for add new card. Trying to use OOP, ...",
+    "Tags": "javascript",
+    "User": [
+      "Mitkermit",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "12",
+    "Question": "read private.key with fs.readFileSync, nvalid left-hand side expression in prefix operation",
+    "Summary": "Hi i try to read my private key with fs.readFileSync but always get this error: -----BEGIN RSA PRIVATE KEY----- ^^^^^^ SyntaxError: Invalid left-hand side expression in prefix operation and i don't ...",
+    "Tags": "javascript fs",
+    "User": [
+      "justabithope",
+      "133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "45",
+    "Question": "How to Loop Through Rows of Checkboxes in an HTML Table in Javascript",
+    "Summary": "I have a question about how to loop through checkboxes in a table. What I want to do is create two checkboxes per row in a table along with a pulldown menu. I will run a conditional in javascript ...",
+    "Tags": "javascript html jquery checkbox",
+    "User": [
+      "Dataman",
+      "1155 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "17",
+    "Question": "Format of Data is incorrect when fetching and receiving it from firebase in react native app",
+    "Summary": "I am trying to fetch my orders data which is stored in firebase in the correct format but when I am trying to see in console.log() then it shows incorrect format of data. This is the data I am ...",
+    "Tags": "javascript react-native firebase-realtime-database react-redux fetch",
+    "User": [
+      "Harsh Mishra",
+      "5511 silver badge55 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "5",
+    "Views": "56",
+    "Question": "JavaScript - sort to do list by date then status",
+    "Summary": "I have a to do list that I need to sort by dueDate and by status (incomplete => complete). The incomplete tasks should be in ASC order by dueDate. Then the completed tasks should come after ...",
+    "Tags": "javascript",
+    "User": [
+      "JohnJones357",
+      "3544 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "21",
+    "Question": "'MyVariable is declared but its value is never read ' When i using module type in javascript",
+    "Summary": "import {MyVariable} from './core.js' console.log(MyVariable()) //message Error returned when I hovered: MyVariable is declared but its value is never read I open it on live server and it sends me a ...",
+    "Tags": "javascript",
+    "User": [
+      "VanDai",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "22",
+    "Question": "Chrome Back button is not preserving the url history when using Ajax for pagination",
+    "Summary": "pls help me out. i recent used ajax for my laravel pagination. Whenever i click he back button. it does not go back to the page i am coming from. it goes back to page 1. let me Illustrate this clearly....",
+    "Tags": "javascript jquery ajax laravel",
+    "User": [
+      "princewill opah",
+      "311 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "31",
+    "Question": "Why do i get \u201cMust provide query string\u201d on fetch API but not on cURL or Postman?",
+    "Summary": "I am trying to use the graphbrainz library on a React app with fetch API, but however I format my request body, this error shows: BadRequestError: Must provide query string. at graphqlMiddleware (...",
+    "Tags": "javascript node.js reactjs graphql fetch-api",
+    "User": [
+      "minus.273",
+      "6781212 silver badges2222 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "12",
+    "Question": "Uncaught TypeError: **now.toUTCString** is not a function at HTMLButtonElement",
+    "Summary": "When I add no time zone the JS runs fine but as I am trying to echo Barbados time zone and I get the error below relating to now.toUTCString. How do I fix this? Uncaught TypeError: now.toUTCString is ...",
+    "Tags": "javascript node.js timezone",
+    "User": [
+      "kevind",
+      "11599 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "16",
+    "Question": "In React, how do I allow users to crop their images after they upload it? [closed]",
+    "Summary": "After the user browse a photo, it will be presented to them on the screen. How do I then allow them to crop that image?",
+    "Tags": "javascript html css reactjs frontend",
+    "User": [
+      "free_lions_n_tigers_from_cages",
+      "1,62322 gold badges88 silver badges1919 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "23",
+    "Question": "Textarea returns empty value",
+    "Summary": "I have a form which takes three values Roomname, Experience and Rating. This data is then submitted to a database. The issue I'm facing is through my Roomname and Rating is getting submitted perfectly,...",
+    "Tags": "javascript php html jquery",
+    "User": [
+      "Kabir Jhangiani",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "27",
+    "Question": "Is it possible to get highlighted html content from user?",
+    "Summary": "When I use onClick in reactjs I get the whole property like Lorem Ipsum is simply dummy text. But I need only the only highlighted content such as \"is simply dummy\". How it is possible?",
+    "Tags": "javascript html reactjs onclick dom-events",
+    "User": [
+      "MH Shuvo",
+      "1322 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "How to Remember a system or browser? [closed]",
+    "Summary": "I am trying to create a poll website but I don't want it to be mandatory to sign in/ register as a user to poll but don't want the user to abuse that feature... I thought of browser local storage but ...",
+    "Tags": "javascript firebase next.js",
+    "User": [
+      "Rahul Sharma",
+      "42111 gold badge44 silver badges1111 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "26",
+    "Question": "How to disable script to link to external sites",
+    "Summary": "I have the following script running to provide weather forecast for my tablets. The problem is that every time someone touch it by accident it opens the source page. Any ideas how could I just block ...",
+    "Tags": "javascript html jquery google-sites-2016",
+    "User": [
+      "RafaNHS",
+      "911 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "7",
+    "Question": "Algolia and Firebase incorrect nbPages returned",
+    "Summary": "I'm creating a search feature in a react + firebase app with a 3rd party Algolia search engine. I need the nbPages to implement pagination. I have set up Algolia Index but nbPages that gets returned ...",
+    "Tags": "javascript reactjs firebase algolia",
+    "User": [
+      "Min",
+      "17822 silver badges1818 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "0",
+    "Views": "25",
+    "Question": "JSON Fetching problems [closed]",
+    "Summary": "1st problem: This code fetches data of every member into HTML.I want to sort the code by x.guild.members[0].rank in order:- Novice- Senior- Graduate- Chief- Professor 2nd problem: This chunk of code ...",
+    "Tags": "javascript html json fetch script",
+    "User": [
+      "JSanchoG",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "8",
+    "Question": "treeview directory get path by javascript",
+    "Summary": "I have a structure that is created dynamically by PHP <ul class=\"mainFolder\"> <li class=\"subFolder\"><span id=\"LKKADSO\" onclick=\"hideFolder(this.id)&...",
+    "Tags": "javascript php html web treeview",
+    "User": [
+      "Wtow",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "1answer",
+    "Views": "56",
+    "Question": "Ternary operator for two conditions",
+    "Summary": "I wrote the basic javascript which take year and check conditions whether it is leap year or not how can I make ternary operator like that gYear=prompt(\"enter the year\"); let abc = (yr) =>...",
+    "Tags": "javascript",
+    "User": [
+      "sumit",
+      "2711 bronze badge"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "16",
+    "Question": "Get State from mobx store react js",
+    "Summary": "I am just learning React JS. I want to get a value that is stored in mobx state in my application. But not getting any idea how to get mobx state in functional component. const user_id = observer(({ ...",
+    "Tags": "javascript reactjs react-hooks mobx mobx-react",
+    "User": [
+      "Haren Sarma",
+      "1,58133 gold badges2525 silver badges4848 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "23",
+    "Question": "colored point cloud (.ply) does not display in three.js",
+    "Summary": "I'm trying to load a colored point cloud in three.js with a ply loader. I follow this example but it's different from my use case. I`m using point cloud not mesh. So, this is what I want to load. You ...",
+    "Tags": "javascript three.js point-clouds ply-file-format",
+    "User": [
+      "badcode",
+      "44311 gold badge22 silver badges1919 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "8",
+    "Question": "passport local strategy simple access to two directories via static fail",
+    "Summary": "app.use(express.static(__dirname + '/login')); app.use('/public', passport.authenticate('local', { failureRedirect: '/nop.html' })); app.use(express.static(__dirname + '/public')); app.post('/login', ...",
+    "Tags": "javascript express passport-local",
+    "User": [
+      "Leslie Optional",
+      "1381010 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "22",
+    "Question": "In Javascript, how can I throw an error if an environmental variable is missing?",
+    "Summary": "In Javascript, I can access an environment variable like so: pizza = process.env.PIZZA Is there a simple syntax for throwing an error if that envar is missing/null/undefined? Something akin to Bash ?:...",
+    "Tags": "javascript null environment-variables",
+    "User": [
+      "Sasgorilla",
+      "1,36711 gold badge1414 silver badges3434 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "22",
+    "Question": "Iframe reloads on hover to other componets eg: tooltip",
+    "Summary": "I have used iframe tag to load one of the url, but iframe data reloads every time when i hover to any other component, eg: tooltip, or open any dropdown. It totally refresh the iframe. HTML Code: <...",
+    "Tags": "javascript html angular typescript iframe",
+    "User": [
+      "Abhishek Chudekar",
+      "47066 silver badges1616 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "4",
+    "Views": "35",
+    "Question": "Javascript wait until element loaded on website using chrome extensiion",
+    "Summary": "I'm developing a chrome extension that clicks elements on a website, but some of this elements appears later and the code doesn't work, so i need to make the function wait until the selected element ...",
+    "Tags": "javascript html",
+    "User": [
+      "Denny Vidotto",
+      "2333 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "2",
+    "Views": "52",
+    "Question": "How can I swap an image with another, after it has been clicked?",
+    "Summary": "Some background of what I am trying to do: I am making a page where there are 4 icons/imgs at the top and when each icon is clicked, certain content is displayed under it. The user can click on any of ...",
+    "Tags": "javascript html css",
+    "User": [
+      "AAP",
+      "1111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "particles.js restart or run multiple instances?",
+    "Summary": "Can anyone figure out how to run this function multiple times or restart it somehow? Because it only to seems to run once before throwing an error that \"pJS is not a function\" when I try to ...",
+    "Tags": "javascript jquery particles.js",
+    "User": [
+      "Vadim Cool",
+      "941010 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "The Line charts disappears on zooming in/out even though the data points are present in the chart",
+    "Summary": "I created a time series line chart using the echarts, it works fine when zoomed out completely, but when I start to zoom in, the lines disappear at certain places. I could see the data is getting ...",
+    "Tags": "javascript echarts",
+    "User": [
+      "Shishir Anshuman",
+      "1,03877 silver badges2020 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "16",
+    "Question": "JS behavior: 'smooth' with dynamic y scrolls to wrong position",
+    "Summary": "using smooth scroll with javascript as const pos = 1300; window.scrollTo({ top: pos, behavior: 'smooth' }); with dynamic y position will scroll too faraway as expected. Commenting out //...",
+    "Tags": "javascript scroll smooth-scrolling",
+    "User": [
+      "fefe",
+      "7,6152121 gold badges8585 silver badges158158 bronze badges"
+    ]
+  }
+]

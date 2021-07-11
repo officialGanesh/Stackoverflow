@@ -1,0 +1,602 @@
+[
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "30",
+    "Question": "if no querySelector is found (use replacement)",
+    "Summary": "i have this code needed if no selector is found (to use replacement number 0) const p = 20; const p1 = document.querySelector(\"#\").textContent; const p2 = p1.replace(/[^\\d:]/g, ''); const p4 ...",
+    "Tags": "javascript",
+    "User": [
+      "Daniel pov",
+      "322 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "17",
+    "Question": "Add a button to show and hide a datatable in R",
+    "Summary": "How to add a button on a leaflet map to show and hide the datatable part in the following R code: library(leaflet) library(DT) library(crosstalk) df <- read.csv(textConnection( \"Name,Lat,...",
+    "Tags": "javascript r dt crosstalk",
+    "User": [
+      "Masoud",
+      "26111 silver badge1212 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "Increase the text area to view more lines of text",
+    "Summary": "Is there any way to increase the text-area found here... ? https://www.google.com/intl/mr/inputtools/try/ I tried this bookmarklet but it does not seem to work: javascript:(function(){var%20i,x;%20for(...",
+    "Tags": "javascript bookmarklet",
+    "User": [
+      "shantanuo",
+      "27.7k6868 gold badges205205 silver badges340340 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "10",
+    "Question": "TypeError: tests is not a function",
+    "Summary": "I was trying to create a test in truffle, connecting it to ganache with the following code :- const path = require(\"path\"); module.exports = { // See <http://truffleframework.com/...",
+    "Tags": "javascript solidity truffle ganache",
+    "User": [
+      "Amalnath Sathyan",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "12",
+    "Question": "I'm using javascript on visual studio code and am attempting to console.log into a live server, it isn't working for me",
+    "Summary": "I'm creating a countdown project as a beginner, here is my code: const newYears = '1 Jan 2021'; function countdown() { const newYearsDate = new Date(newYears); const currentDate = new Date(); ...",
+    "Tags": "javascript html visual-studio-code console.log liveserver",
+    "User": [
+      "Christian Lords",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "2",
+    "Views": "21",
+    "Question": "Scroll is not binded, and I am stuck",
+    "Summary": "var id = document.querySelector(\"#arrowUp\"); var arrowUp = window.pageYOffset >= 5; console.log(arrowUp); id.classList.toggle(\"arrowUp\", arrowUp); id.addEventListener('click', ...",
+    "Tags": "javascript scroll offset",
+    "User": [
+      "somethingnow",
+      "69733 silver badges1515 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "16",
+    "Question": "How can i append event.stopPropogation() in inline element function call",
+    "Summary": "I want to add event.stopPropogation() in inline onclick() function before remove_e('+i+' ) function.. Like this... onclick(event.StopPropogating(); remove_e();) but when i add this it doesnot work... ...",
+    "Tags": "javascript html jquery",
+    "User": [
+      "Bilal Hameed",
+      "1733 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "5",
+    "Views": "46",
+    "Question": "My HTML/CSS code isn't running on my browser, but it runs on S.Overflow snippets. Any solution?",
+    "Summary": "My code runs perfectly on Stack Overflow snippets but it doesn't run in my chrome browser. I've been using it to run other HTML/CSS files but this one won't run. ANy idea what the problem could be? ...",
+    "Tags": "javascript html css",
+    "User": [
+      "Aishah Hamman",
+      "4344 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "3",
+    "Views": "33",
+    "Question": "Why can't i fetch my my items from my JSON?",
+    "Summary": "I'm trying to fetch the data from my JSON package, but the console doesn't show anything and it announces 'undefined' at the line \"products.getProducts().then(data => console.log(data))\". ...",
+    "Tags": "javascript json fetch destructuring",
+    "User": [
+      "N\u01b0\u01a1ng \u0110\u00e0m Th\u1ecb",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "17",
+    "Question": "How to bring focus to an element with javascript that appears only once you click it?",
+    "Summary": "I want to bring focus (with something like .focus()) to an element. The problem is that the element is in a list that appears only once you click it. For example, here when you click the on dropdown ...",
+    "Tags": "javascript html accessibility",
+    "User": [
+      "Johny Sam Arthur",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "27",
+    "Question": "Math.random() is not working in browser in nodejs",
+    "Summary": "I am writing this code in node but Math.random() is not working in the browser when I hit the address it shows an error but in cmd it's working fine i.e. comsole.log(x). the error isenter image ...",
+    "Tags": "javascript html node.js express backend",
+    "User": [
+      "HARMANPREET SINGH",
+      "311 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "8",
+    "Question": "How to find if value exists in array [duplicate]",
+    "Summary": "I have an array ['test','test2'] I am making a node.js server. now i am using user = req.query.user After supplying user as \"test\", indexof returns -1. How to fix this?",
+    "Tags": "javascript node.js json",
+    "User": [
+      "Poulami Paul",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-4",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "Following a permission for creating a discord bot and code is not working",
+    "Summary": "I am learning how to create a discord bot using a Youtube tutorial. Unfortunately I am having difficulty in certain sections of the video, particularly in 6:20. It's a tutorial on permission roles and ...",
+    "Tags": "javascript html css discord.js bots",
+    "User": [
+      "Kooners 69",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "27",
+    "Question": "How can I delete some data from Firebase Realtime Database?",
+    "Summary": "I have this functions to save and get data on it: to save: try { const request = new Request('https://yandexmap-96969-default-rtdb.firebaseio.com/locations.json', { method: 'post', ...",
+    "Tags": "javascript node.js firebase rest firebase-realtime-database",
+    "User": [
+      "Dmitrii",
+      "311 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "16",
+    "Question": "Cannot read property '0' of undefined 2D Array [closed]",
+    "Summary": "I am trying to access elements inside of a 2D array and the console is outputting Cannot read property '0' of undefined. Array passed as the parameter: a = [[1, 2, 3], [4, 5, 6], [7, 8, 9]] ...",
+    "Tags": "javascript arrays multidimensional-array",
+    "User": [
+      "Trush P",
+      "4388 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "querySelectorAll() Returning Empty List [duplicate]",
+    "Summary": "I have 3 div elements in my html file with class \".load-on-scroll\", however when I try to query them using querySelectAll() the result is an empty nodelist. Here is my HTMl and JS: ...",
+    "Tags": "javascript html",
+    "User": [
+      "giibbu",
+      "1111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "10",
+    "Question": "How to open ElectronJS App with web Custom Protocol?",
+    "Summary": "What should I do to open my Electron application after clicking on such a web part? <a href=\"myapp:exampleParam\"> Click me </a> And, \u00bfHow can I do it efficiently while developing?...",
+    "Tags": "javascript electron",
+    "User": [
+      "Agustin Maillet",
+      "911 bronze badge"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "8",
+    "Question": "How to transfer data between native webview and react js page?",
+    "Summary": "I'm developing a PWA application combined with android native using Android-studio by using webView. I have a webView and pages load on it , But i need to send some information from device (using my ...",
+    "Tags": "javascript android reactjs webview progressive-web-apps",
+    "User": [
+      "Mohrez khorasani",
+      "1122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "2",
+    "Views": "22",
+    "Question": "Puppeteer Getting the text within all the elements with <span> tag in DOM only if it has a <sup> child tag",
+    "Summary": "Newbie here. Experimenting with puppeteer. I have my HTML as given below <html> <div id=\"container\"> <span > Parent Text <sup name=\"20\"&...",
+    "Tags": "javascript puppeteer",
+    "User": [
+      "Storm",
+      "2333 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "12",
+    "Question": "How to align radio buttons horizontally in Grid in semantic-ui in react.js?",
+    "Summary": "I have 2 radio buttons I want to align them horizontally using Grid from semantic-ui-react package.How can I do so? Here's my code for the component. import { Grid, Form } from \"semantic-ui-react&...",
+    "Tags": "javascript html reactjs input semantic-ui",
+    "User": [
+      "rudeTool",
+      "16177 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "22",
+    "Question": "How to apply toggling / styles on a particular clicked card only in vue.js?",
+    "Summary": "I developed one page DisplayBooks.vue which is responsible for displaying books the response is coming from backend API based on that data it will displayed in my UI page , in my UI page each card ...",
+    "Tags": "javascript css vue.js vuejs2",
+    "User": [
+      "Devops Training",
+      "11477 bronze badges"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "0",
+    "Views": "23",
+    "Question": "Need to update table with change of Picklist value in LWC",
+    "Summary": "Have got an accounts list that passes info to child component. Need that with change value of picklist(valueType in handleChange), accounts list would change also and pass renewed info to child ...",
+    "Tags": "javascript lwc",
+    "User": [
+      "Meatinboots",
+      "2122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "21",
+    "Question": "how to integrate data from MySql (backend) to reactjs (front end)?",
+    "Summary": "I am newbie with ReactJS and MySQL Wokbench and trying to make a simple website. I made a frontend website using ReactJS, it was ok. Then, I used MySQL Wokbench to make some data, I thought that I can ...",
+    "Tags": "javascript mysql reactjs",
+    "User": [
+      "nguyencuc2286",
+      "1522 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "24",
+    "Question": "How can I get the video url from a php file?",
+    "Summary": "I want to get video url from php file. But when I try to run the html file video play error shows Here is my html code: Head <head> <link href=\"https://vjs.zencdn.net/7.11.4/...",
+    "Tags": "javascript php html web",
+    "User": [
+      "Sajedul Islam Sakib",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "21",
+    "Question": "Javascript - addEventListener's listener executes the inner function if that contains parameter(s) [duplicate]",
+    "Summary": "I'm working on a accessibility interface that lets users increase/decrease a number in the input by clicking and holding the mouse on the element and moving the mouse left and right. This acts similar ...",
+    "Tags": "javascript",
+    "User": [
+      "AAsomb113",
+      "3744 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "2",
+    "Views": "59",
+    "Question": "Why JavaScript frontend framework is needed for Node.js to run?",
+    "Summary": "When we talk about JavaScript vanilla it's frontend programming language; It needs a webserver like IIS, Apache or nginx etc to deliver the content to a client when requested. After that, JavaScript ...",
+    "Tags": "javascript node.js reactjs",
+    "User": [
+      "adel",
+      "7555 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "55",
+    "Question": "My Table is not re-rendering even it is calling useEffect",
+    "Summary": "directoryList is a state of the list which consist of file details (filename,keyword,status,checked) in one of my component. My Whole code is added in codesandBox Instruction: Add one text file and ...",
+    "Tags": "javascript reactjs file dom-events",
+    "User": [
+      "Ajith Ram",
+      "1755 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "10",
+    "Question": "Web application using websockets \u201cCould not establish connection. Receiving end does not exist.\"",
+    "Summary": "Java server, javascript client, no special libraries, plain text HTTP/1.1 and websocket connections. Server side written (in Eclipse) using JDK 16 and a websocket jar found in Tomcat, version 10.0.2. ...",
+    "Tags": "javascript ubuntu tomcat websocket connection",
+    "User": [
+      "Paul",
+      "1122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "How to set up properly the auth-flow of react router dom in react js?",
+    "Summary": "I am currently studying react js and the react router dom. Right now I want to achieve is. How to automatically redirect the browser to the private route if the token exist? because right now even I ...",
+    "Tags": "javascript reactjs react-router-dom",
+    "User": [
+      "DevGe",
+      "1,04611 gold badge1818 silver badges4141 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "14",
+    "Question": "How to reconnect socket instance from Socket.io after page refresh on React page?",
+    "Summary": "Trying to make a simple chat app with express + socket.io and react but this issue has been racking my brain. Whenever I refresh the page on messaging app route, I can't send any messages. I tried ...",
+    "Tags": "javascript reactjs express socket.io",
+    "User": [
+      "Jeffrevin",
+      "1111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "2",
+    "Views": "31",
+    "Question": "JS: How to convert string to JSON Format using replace and then JSON.Parse",
+    "Summary": "I am having trouble converting my string to JSON format. I have this specific kind of string: {Object1=Text Goes Right Here, and Here, Object2 = Another Text Here} I wanted to convert it to something ...",
+    "Tags": "javascript json regex string format",
+    "User": [
+      "Ayuk",
+      "2744 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "16",
+    "Question": "Clone image objects and append",
+    "Summary": "I have one image variable, which i want to append to 3 different divs. Ive tried adding .clonenode(true) to the end of the object but that did not work. what keeps happening is it goes to the div the ...",
+    "Tags": "javascript append",
+    "User": [
+      "sienna xo",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "I want to receive a JSON (sendend by POST method of JS xmlHttpRequest()) echo from PHP",
+    "Summary": "The code JS is var xhr = new XMLHttpRequest() //console.log(xhr) xhr.onreadystatechange = function(){ if(xhr.readyState==4){ console.log(xhr) } } xhr.open(\"POST\",\"...",
+    "Tags": "javascript php",
+    "User": [
+      "Jo\u00e3o Vitor Oliveira Corr\u00eaa",
+      "1"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "Wordpress/JS | Condition for not including specific \u201cselect\u201d with chosen.js library",
+    "Summary": "I'm developing a project and I've included the chosen.js library to use the search field in selects. I had created a little rule to not change some select fields that I don't need, identifying them ...",
+    "Tags": "javascript php jquery wordpress code-snippets",
+    "User": [
+      "Luiz Francisco Fonseca",
+      "2333 bronze badges"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "0",
+    "Views": "26",
+    "Question": "how to solve this npm glob-parent problem",
+    "Summary": "glob-parent <5.1.2 Severity: moderate Regular expression denial of service - https://npmjs.com/advisories/1751 fix available via `npm audit fix` node_modules/watchpack-chokidar2/node_modules/glob-...",
+    "Tags": "javascript npm",
+    "User": [
+      "Edward",
+      "2122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "31",
+    "Question": "How to pass data between two child components in react",
+    "Summary": "So i want to pass data between two child component using React Context Api but it shows the following error Error: Element type is invalid: expected a string (for built-in components) or a class/...",
+    "Tags": "javascript reactjs react-hooks react-context",
+    "User": [
+      "Obin Charity",
+      "2933 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "Problem while loading scripts and styling files in wordpress [closed]",
+    "Summary": "I'm try to load the styling and scripts files in wordpress, recently I bought an template HTML and Now I want to make the WordPress theme out of this. Here how it looks when I load the main file ...",
+    "Tags": "javascript jquery css wordpress",
+    "User": [
+      "John",
+      "2144 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "14",
+    "Question": "Invalid hook call with react-select implementation",
+    "Summary": "I am trying to use react-select in my code, but I keep getting this error: Error: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of ...",
+    "Tags": "javascript reactjs react-hooks react-select",
+    "User": [
+      "Juliette",
+      "2,27922 gold badges22 silver badges1010 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "23",
+    "Question": "Highlight variables from jinja2 template on HTML",
+    "Summary": "So I have a few jinja2 templates that are executed through a python script and generate a different output text each. Each output text has fixed values of the template and some that are variable. I ...",
+    "Tags": "javascript python regex flask jinja2",
+    "User": [
+      "matilde",
+      "1322 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "8",
+    "Question": "p5js AudioIn function not working on instance mode",
+    "Summary": "I was converting my p5js code to instance mode to run 2 canvases in the same DOM but my p5.AudioIn() function is not working. The error I get is referencing Failed to construct 'AudioWorkletNode'. I ...",
+    "Tags": "javascript p5.js",
+    "User": [
+      "seriously",
+      "25311 silver badge99 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "26",
+    "Question": "javascript confusing variable syntax [duplicate]",
+    "Summary": "I am new to JS, and JS syntax is definitely confusing to me as I'm used to other languages instead. const x = 5; x.yy = 3; console.log(x.yy); // undefined How is x.yy = 3; a valid syntax? and why is ...",
+    "Tags": "javascript",
+    "User": [
+      "Jonathan Kim",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "0",
+    "Views": "12",
+    "Question": "Aplicando Expresiones Regulares RegExp en un problema de Capital-Case en Javascript [closed]",
+    "Summary": "Quieren ayudarme a mejorar este uso de Expresiones Regulares. Estuve buscando un termino de b\u00fasqueda adecuado, que me permitiera aplicar un filtro de formato en un registro de entidades. Tomando ...",
+    "Tags": "javascript regex capitalization capitalize",
+    "User": [
+      "Maik col",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "27",
+    "Question": "Express promises",
+    "Summary": "I am trying to test my route however when I visit my route I am receiving this error. I think that it should be correct however I'm not sure why my promise is failing. I am supposed to return the copy ...",
+    "Tags": "javascript express routes",
+    "User": [
+      "lipo",
+      "5544 bronze badges"
+    ]
+  },
+  {
+    "Votes": "3",
+    "Answers": "1answer",
+    "Views": "37",
+    "Question": "HTMLElement type for <strong>, <cite>, <article>, and others",
+    "Summary": "What are the HTMLElement types for elements such as <strong> <cite> <article> and many others ? According to MDN's HTML elements reference, there are many more elements than there ...",
+    "Tags": "javascript html typescript dom webapi",
+    "User": [
+      "t-mart",
+      "72699 silver badges2020 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "28",
+    "Question": "Selecting multiple inputs in React programmatically",
+    "Summary": "I'm working on a project where the user could enter dollar amount (it gets formatted and displayed). I'm using multiple input fields in order to show/format the input text. Question: I want to make &...",
+    "Tags": "javascript html reactjs input",
+    "User": [
+      "TechnoCorner",
+      "4,21388 gold badges2727 silver badges6262 bronze badges"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "Prevent video controls in Safari from triggering a click event",
+    "Summary": "As can be seen in the Codepen (https://codepen.io/MrKoga/pen/PomGezw), in Safari the video controls trigger a click event on the video element. In Chrome they do not. HTML <video id=\"...",
+    "Tags": "javascript html video",
+    "User": [
+      "ekog",
+      "2122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "30",
+    "Question": "Calculate percentage remaining of percentage",
+    "Summary": "I'm making progress of several downloads, I load the first module which percentage is fixed at 70% and then load several other modules where do i know the modules length after downloading the first ...",
+    "Tags": "javascript math",
+    "User": [
+      "Klobox",
+      "1322 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "0",
+    "Views": "23",
+    "Question": ".contains is not a function [duplicate]",
+    "Summary": "I'm trying to redirect the user if their username contains a space, but im getting Uncaught TypeError: check.contains is not a function as a result my code: const UN = urlParams.get('username'); const ...",
+    "Tags": "javascript",
+    "User": [
+      "Rogue Ram",
+      "1"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "0",
+    "Views": "42",
+    "Question": "To ensure focus on the elements hidden behind the fixed tabs. (To behave like a \u201cheading map\u201d)",
+    "Summary": "About the so-called outliner (TOC) function. \u3010specification\u3011 Adjusted with a browser zoom rate of 150%. For Chrome Display with \"Ctrl\" + \"Shift\" + \"H\" keys. Firefox can'...",
+    "Tags": "javascript html jquery css focus",
+    "User": [
+      "SAKURA",
+      "12311 gold badge11 silver badge1010 bronze badges"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "2",
+    "Views": "36",
+    "Question": "window.onload starts before indexed db statements",
+    "Summary": "Good afternoon all, My issue is javascript related, I have made one function called checkflights, a series of statements to open an indexeddb database and one window.onload that triggers checkflights. ...",
+    "Tags": "javascript indexeddb onload",
+    "User": [
+      "Mouss",
+      "2355 bronze badges"
+    ]
+  }
+]
