@@ -1,0 +1,602 @@
+[
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "How to avoid magic string with python databases?",
+    "Summary": "When doing raw sql with databases we have to use magic string, like in this example from the official documentation. query = \"INSERT INTO HighScores(name, score) VALUES (:name, :score)\" ...",
+    "Tags": "python sql",
+    "User": [
+      "o---o",
+      "5144 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "Pandas json_normalize and then selecting columns vs creating dictionary and then applying json_normalize",
+    "Summary": "I have use case where i am using - Approach 1: Pandas json_normalize to convert a list of dictionaries into a dataframe(loop for each dict.) and then selecting the required columns. Approach 2: ...",
+    "Tags": "python json python-3.x pandas json-normalize",
+    "User": [
+      "SSH",
+      "331010 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "4",
+    "Question": "speech-dispatcher python3 speechd SSIPClient error",
+    "Summary": "code: import speechd tts_d = speechd.SSIPClient('test') Installed with: sudo apt install python3-speechd error: Traceback (most recent call last): File \"/usr/lib/python3/dist-packages/speechd/...",
+    "Tags": "python linux ubuntu text-to-speech",
+    "User": [
+      "Seruios",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "7",
+    "Question": "performing the same function multiple times with diffrent values EXCEL?",
+    "Summary": "BOOKSHELF08 . so i have multiple sheets similar to this, 1 for each and every product. the image below it the sheet for bookshelf08 the sheet is set up in a way that when i enter the value in the ...",
+    "Tags": "python excel",
+    "User": [
+      "gokul gupta",
+      "17022 silver badges1212 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "4",
+    "Question": "TensorFlow Adam optimizer returning weird losses",
+    "Summary": "I have been building a classification algorithm and when I run the model the accuracy starts high before plummeting and then slowly rebuilding, I thought gradient descent was meant to continue ...",
+    "Tags": "python tensorflow machine-learning keras deep-learning",
+    "User": [
+      "kuzlo",
+      "1344 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "Create a DataFrame showing the other IDs that share the value of one column with each ID",
+    "Summary": "I have the following DataFrame or user_id and label columns. One user can have several labels. df = spark.createDataFrame( [(1, \"a\"), (2, \"b\"), (3, \"a\"), (1, \"c&...",
+    "Tags": "python apache-spark pyspark apache-spark-sql",
+    "User": [
+      "KOB",
+      "3,09211 gold badge2424 silver badges6161 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "15",
+    "Question": "optimize python code with basic libraries",
+    "Summary": "I'm trying to do a non equi self join with basic python on a table that has 1.7 millions rows and 4 variables. the data look like this: product position_min position_max count_pos A.16 ...",
+    "Tags": "python loops optimization",
+    "User": [
+      "Stella",
+      "7911 silver badge77 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "8",
+    "Question": "I get an error RuntimeError: Found dtype Double but expected Float",
+    "Summary": "i see this error while trying to train model for fire detection model, i have try to convert image to float but it didn't work loss_hist = Averager() best_val = None patience = es_patience for epoch ...",
+    "Tags": "python pytorch torchvision",
+    "User": [
+      "Nam Tran",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "11",
+    "Question": "How to change the font size of labels on a matplotlib plot (for text labels which is in plot figure)",
+    "Summary": "I want to change the font size of labels that were in the figure like:",
+    "Tags": "python matplotlib plot label font-size",
+    "User": [
+      "krishna veer",
+      "42211 gold badge33 silver badges1111 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "17",
+    "Question": "Create local host without any number",
+    "Summary": "When I create a local host from Nodejs or Python it starts local host:8000 or 3000 i don't want 8000 or any number. How can I get only local host?",
+    "Tags": "python node.js",
+    "User": [
+      "Vansh Sharma",
+      "1"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "0",
+    "Views": "22",
+    "Question": "Separating variables in python",
+    "Summary": "This program is used to detect different colours eg. Red=1, green=0 I want to change it to have three different variables; now it only has one (out_number) Also, are they any other methods to show ...",
+    "Tags": "python opencv",
+    "User": [
+      "\u65b9\u8000\u5ef7",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "8",
+    "Question": "Docker container app doesn't run while using wait-for script in docker-compose",
+    "Summary": "Short explanation about my issue. We're talking about a two-tier structure in docker-compose. 2 containers running in 1 docker-compose on the same network between them. Since I need my ElasticSearch ...",
+    "Tags": "python linux docker elasticsearch docker-compose",
+    "User": [
+      "n1vgabay",
+      "122 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "Amount of Configurations in PyCharm Professional is capped. Any way to raise their amount?",
+    "Summary": "I am using PyCharm Pro and have a limited amount of saved configurations. I am using a large amounts of scripts daily (easily over 30) and I only see a capped amount in the configurations. If I add ...",
+    "Tags": "python pycharm",
+    "User": [
+      "Pavel Zagalsky",
+      "1,36244 gold badges1717 silver badges4444 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "9",
+    "Question": "Importing multiple csv files into SQL using python",
+    "Summary": "Hey I'm trying to import multiple csv files from a folder that i have ( like 1200 csv files) I was able to create a code that will insert one csv file, but im not quite sure how can I change it to ...",
+    "Tags": "python sql pandas csv pyodbc",
+    "User": [
+      "Gaming World",
+      "2133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "2",
+    "Views": "19",
+    "Question": "How do I move multiple columns under specific multiple other columns?",
+    "Summary": "My data is something like: region lf_sex_01 lf_sex_02 lf_occ_01 lf_occ_02 lf_grp_01 lf_grp_02 I F M 22 56 a b X M M 54 24 c a II F M 16 34 d e Where _01 and _02 correspond to individuals living ...",
+    "Tags": "python pandas dataframe",
+    "User": [
+      "kwispychickyjoy",
+      "4355 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "14",
+    "Question": "Allowing users in Django app to use same form to create two objects",
+    "Summary": "I am trying to create a simple, Django-based To-do web app. Each task in the app will be linked to tags. I can achieve the above by creating models for both the tasks and the tags with many:many ...",
+    "Tags": "python django modelform",
+    "User": [
+      "Rishi",
+      "5555 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "12",
+    "Question": "How to combine Html with python",
+    "Summary": "I have made a simple html coding. <form method=\"post\"> <div class=\"signin-image\"> <button type=\"button\" onclick=\"send_otp(...",
+    "Tags": "python html",
+    "User": [
+      "Aiman Syafiq",
+      "11"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "5",
+    "Question": "Closing an application (a CAD viewer), that blocks code execution, from within the code",
+    "Summary": "Hi stackoverflow community! I'm trying to write a piece of code that loops through CAD files and takes pictures of them. The problem that I encounter is that I have to open the CAD files in a viewer ...",
+    "Tags": "python multiprocessing",
+    "User": [
+      "skirkov",
+      "3344 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "Why arent packages being recognised in this function?",
+    "Summary": "I am running the following script: # STEP 1: import packages, declare tindexes import pandas as pd import yfinance as yf import datetime as dt bnpl_tindex = [\"APT.AX\",\"Z1P.AX\",&...",
+    "Tags": "python yfinance",
+    "User": [
+      "aStarIsCorn",
+      "3944 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "20",
+    "Question": "whats the difference between type() and print(type()) [duplicate]",
+    "Summary": "Im new to coding and I don't understand the difference between if I put type() and if I put print(type()) in the program because I get the same thing that is <class 'str'>. Can you add something ...",
+    "Tags": "python",
+    "User": [
+      "novacore",
+      "1"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "0",
+    "Views": "21",
+    "Question": "Python check if text is PURELY in English",
+    "Summary": "I am using langdetect's detect function to detect if a text is in English. However, sometimes langdetect identifies texts (really large, around 25-30K words) as English even if they have a little bit ...",
+    "Tags": "python nltk language-detection polyglot",
+    "User": [
+      "Petar",
+      "4355 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "4",
+    "Question": "MongoClient opened before fork when use celery in flask",
+    "Summary": "When i use Celery-schedule task in Flask to save data from redis to mongoDB. Celery raise a warning message called \"[2021-07-11 17:01:19,092: WARNING/ForkPoolWorker-2] /home/moluo/anaconda3/envs/...",
+    "Tags": "python mongodb flask celery",
+    "User": [
+      "Bai Jinge",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "24",
+    "Question": "Keeping the first day of the month in a timestamp object",
+    "Summary": "I have a DataFrame with a timestamp column containing all the days of the year. I would like to keep only the first day of the month, any idea of how should I do this? Thanks in advance!!!",
+    "Tags": "python pandas time-series timestamp",
+    "User": [
+      "Ignacio Zamanillo",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "7",
+    "Question": "Reading MIME images using Python",
+    "Summary": "I am trying to parse Jupyter notebooks from their underlying JSON code using: import json with open(\"my_notebookipynb\", \"rb\") as file: data = json.load(file) It turns out, ...",
+    "Tags": "python json jupyter-notebook jupyter mime-types",
+    "User": [
+      "Bex T.",
+      "1821010 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "4",
+    "Question": "Pipenv: There are incompatible versions in the resolved dependencies",
+    "Summary": "I am using $ pipenv install to update the Pipfile.lock , it just complains with this error: Locking [dev-packages] dependencies... Building requirements... Resolving dependencies... \u2714 Success! ...",
+    "Tags": "python python-3.x pipenv pipfile pipenv-install",
+    "User": [
+      "mostafa",
+      "3633 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "2",
+    "Views": "26",
+    "Question": "How to find the highest Value with Python",
+    "Summary": "I have some variable values and it's changing like I get these values a = 0 b = 2 c = 4 d = 0 print (c) how can I print the highest value like above and below a = 6 b = 0 c = 5 d = 0 print (a) ...",
+    "Tags": "python",
+    "User": [
+      "Sarfraz",
+      "8611 silver badge77 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "10",
+    "Question": "Asking about python plt.plot's output",
+    "Summary": "I found another person's code about histograms. n,x,_ = plt.hist(i, bins=100, density=True,label=name, alpha=0.7) in that code, What data does each n,x,_ has?",
+    "Tags": "python",
+    "User": [
+      "Minsung Kang",
+      "1711 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "12",
+    "Question": "The Django form could not be submitted accordingly",
+    "Summary": "views.py @login_required(login_url='login/') def add_country(request): if request.method == 'POST': form = CountryForm(request.POST,request.FILES) if form.is_valid(): ...",
+    "Tags": "python django web",
+    "User": [
+      "Dominic Sham",
+      "1555 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "6",
+    "Question": "Google api for fetching entire result which we normally get while googling manually",
+    "Summary": "Is there an api for getting the results that includes all the HTML or atleast in JSON format? If google owned API, then kindly tell what specific API should I be using P.S: API works well in Python ...",
+    "Tags": "python python-3.x web-scraping google-api",
+    "User": [
+      "Nandhakumar",
+      "322 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "7",
+    "Question": "django __in queryset with very large list is too slow",
+    "Summary": "I have this filter in views: cat_ids = list(models.Catalogue.objects.only('city', 'district').filter( Q(*[Q(city__contains=x) for x in city_district], _connector=Q.OR) | Q(*[Q(...",
+    "Tags": "python django django-queryset",
+    "User": [
+      "omid jahadi",
+      "10188 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "18",
+    "Question": "How to choose random item from a dictionary to df and exclude one item?",
+    "Summary": "I have a dictionary and a dataframe, for example: data={'Name': ['Tom', 'Joseph', 'Krish', 'John']} df=pd.DataFrame(data) print(df) city={\"New York\": \"123\", \"LA\":\"...",
+    "Tags": "python pandas numpy",
+    "User": [
+      "ABC",
+      "5344 bronze badges"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "17",
+    "Question": "I want to create a new column territory based on the city column",
+    "Summary": "Data Frame : city Temperature 0 Chandigarh 15 1 Delhi 22 2 Kanpur 20 3 Chennai 26 4 Manali -2 0 Bengalaru 24 1 Coimbatore 35 2 Srirangam 36 3 ...",
+    "Tags": "python pandas dataframe",
+    "User": [
+      "udaykumar gajavalli",
+      "2755 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "8",
+    "Question": "Python telegram bot parse file",
+    "Summary": "I have set up my telegram bot in pythonanywhere with a webhook. Also, I am using a main.py Programm locally on my PC that regulary writes some updates into a .txt file. The user should be able to send ...",
+    "Tags": "python telegram pythonanywhere python-telegram-bot telegram-webhook",
+    "User": [
+      "exec85",
+      "1621010 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "8",
+    "Question": "How can I save a distance computed with geopy in an array?",
+    "Summary": "I am usingn geopy and I want to save the computed distance in an array. Here is what I tried so far: import geopy.distance for i in dfP.itertuples(): coords_1 = (-20.91, 144.3517) ...",
+    "Tags": "python loops distance geopy coords",
+    "User": [
+      "Ecoenergy Auscol",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-2",
+    "Answers": "0",
+    "Views": "19",
+    "Question": "Gender not defined error when i try to grab value from a checkbox in tkinter [closed]",
+    "Summary": "someone please help me out with this code i am getting an error that says gender not defined but i defined the gender here.. here is the link to the code since i cant paste the full code here for some ...",
+    "Tags": "python mysql tkinter",
+    "User": [
+      "Mufti Farooqi",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "13",
+    "Question": "Pywin32 vs VBA for word automation?",
+    "Summary": "So I was wondering which out of pywin32 and VBA would be faster for word automation? Would there be a significant difference or just a few seconds?",
+    "Tags": "python vba automation ms-word pywin32",
+    "User": [
+      "Pav",
+      "2333 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "11",
+    "Question": "Value Error: Cannot query \u201cpost\u201d: Must be \u201cUserProfile\u201d instance",
+    "Summary": "I am getting the Value Error: Cannot query \"post\": Must be \"UserProfile\" instance when I make a get request to call PostListView.as_view(). Here is my model.py : from django.db ...",
+    "Tags": "python django",
+    "User": [
+      "Rudrakshi",
+      "1071010 bronze badges"
+    ]
+  },
+  {
+    "Votes": "2",
+    "Answers": "3",
+    "Views": "35",
+    "Question": "Comparing lists with lists of lists",
+    "Summary": "How can I check if a string of list2 is insinde a string of a list of list1? For example: list1 = [[\"CATTAC\"], [\"AGGA\"]] list2 = [\"AT\", \"GG\"]",
+    "Tags": "python list",
+    "User": [
+      "septimus",
+      "2344 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "0",
+    "Views": "23",
+    "Question": "Write a Python program [closed]",
+    "Summary": "Write a function called fizz_buzz that takes a number. If the number is divisible by 3, it should return \u201cFizz\u201d. If it is divisible by 5, it should return \u201cBuzz\u201d. If it is divisible by both 3 and 5, ...",
+    "Tags": "python",
+    "User": [
+      "Shivani Dhyani",
+      "7"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "17",
+    "Question": "IndexError: index 73922 is out of bounds for axis 0 with size 73920",
+    "Summary": "I try to construct the model of FRNN: for i, owa_weights, k in [(1, strict(), 1), (2, additive(), 20)]: # Create an instance of the FRNN classifier, construct the model, and query on the test set. ...",
+    "Tags": "python index-error ensemble-learning fuzzy",
+    "User": [
+      "sal",
+      "2133 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "0",
+    "Views": "10",
+    "Question": "Pycharm fails to run in debian 10 buster",
+    "Summary": "I just downloaded pyhcarm in my Debian 10 buster. When I try to run pycharm.sh file in Pycharm/bin folder, it shows an error WARNING: Prefs file removed in background /home/nrj/.java/.userPrefs/prefs....",
+    "Tags": "python linux pycharm debian",
+    "User": [
+      "Neeraj Chimwal",
+      "3966 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "17",
+    "Question": "Multithreading on python script [closed]",
+    "Summary": "This is a calculating python script. When put my target more than 9999 it take 7 to 8 hours to complete. but i think if it use 4core and 8 threats of my cpu then it will finish in 1 hours or less. So, ...",
+    "Tags": "python",
+    "User": [
+      "Arman Hossen",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "Save .xlsx file to Azure blob storage",
+    "Summary": "I have a Django application and form which accepts from a user an Excel(.xlsx) and CSV (.csv) file. I need to save both files to Azure Blob Storage. I found it to be trivial to handle the .csv file ...",
+    "Tags": "python django azure azure-storage-blobs",
+    "User": [
+      "Simon",
+      "56933 silver badges1616 bronze badges"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "1answer",
+    "Views": "21",
+    "Question": "How do I fix \u201cTypeError: string indices must be integers\u201d [duplicate]",
+    "Summary": "I'm totally new to Python and I am trying to make my first little piece of code. What I want to do is type in a sentence and the number, and get the code to display the letter that corresponds with ...",
+    "Tags": "python string integer",
+    "User": [
+      "miki261",
+      "311 bronze badge"
+    ]
+  },
+  {
+    "Votes": "-1",
+    "Answers": "1answer",
+    "Views": "23",
+    "Question": "If/else function not working? No matter what the answer is, it always does the subtract message first. I am very new to python so any help is useful [duplicate]",
+    "Summary": "name = input(\"Hello, what's your name?\") print(\"Hello\", name, \",\") question1 = input(\"Would you like to add or subtract? [A/S]\") if question1 == \"s\" ...",
+    "Tags": "python",
+    "User": [
+      "William Hackett",
+      "1"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "6",
+    "Question": "This is a transformer code using pytorch, but an error occurs when using gpu",
+    "Summary": "File \"C:\\Users\\Administrator\\anaconda3\\envs\\wonyong_tf1_2\\lib\\site- packages\\torch\\nn\\functional.py\", line 1371, in linear output = input.matmul(weight.t()) RuntimeError: Expected object of ...",
+    "Tags": "python deep-learning pytorch gpu transformer",
+    "User": [
+      "\uc815\uc6d0\uc6a9",
+      "1111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "11",
+    "Question": "joining dotted line by interpolation in an image",
+    "Summary": "I have this image as shown below. It is a binary mask as you can see all pixels are the same except 2 lines, one on the left and one in right. As you can see that the right line is not continuous ...",
+    "Tags": "python opencv image-processing interpolation scikit-image",
+    "User": [
+      "Quamer Nasim",
+      "20233 silver badges1515 bronze badges"
+    ]
+  },
+  {
+    "Votes": "-3",
+    "Answers": "0",
+    "Views": "6",
+    "Question": "How to run python behind proxy?",
+    "Summary": "I am not able to run python behind company proxy with Http_proxy and https_proxy settings. Pls send other options to download packages",
+    "Tags": "python download package",
+    "User": [
+      "swapnil nema",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "0",
+    "Answers": "0",
+    "Views": "6",
+    "Question": "Unable to use Spotify credentials for predicting songs",
+    "Summary": "I entered the Spotify credentials in the following code but unable to use those credentials and I don't know how to deal with this error. Any help would be appreciated. from spotipy.oauth2 import ...",
+    "Tags": "python spotify spotipy",
+    "User": [
+      "Rohan",
+      "111 bronze badge"
+    ]
+  },
+  {
+    "Votes": "1\nvote",
+    "Answers": "1answer",
+    "Views": "16",
+    "Question": "How can I split a string of names and adjacent numbers, such that the numbers are assigned to each adjacent string name?",
+    "Summary": "I have a list of NBA teams: teams = (\"Los Angeles Clippers\",\"Dallas Mavericks\",\"New York Knicks\",\"Atlanta Hawks\") And the results of some matches: results = (&...",
+    "Tags": "python string split",
+    "User": [
+      "Patrick Chong",
+      "6155 bronze badges"
+    ]
+  }
+]
